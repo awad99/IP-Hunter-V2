@@ -1,0 +1,1572 @@
+ip,city,country,assignment,open_port_count,filtered_port_count,closed_port_count,tcpwrapped_count,total_vulnerabilities,exploit_risk_score,os_info,http_ports_open,ssh_ftp_ports_open,mail_ports_open,database_ports_open,remote_access_ports_open,has_web_service,has_ssh,has_database,has_high_severity_vuln,has_exploit_available,geographic_risk,port,port_status,service,is_open,is_common_vulnerable_port,exploit_label
+47.123.157.86,Shanghai,China,"AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,None,None,None,0,0,0
+118.178.233.65,Hangzhou,China,"AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,None,None,None,0,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,1,open,tcpmux,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,2,open,compressnet,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,3,open,compressnet,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,4,open,unknown,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,5,open,rje,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,6,open,unknown,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,7,open,echo,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,8,open,unknown,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,9,open,discard,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,10,open,unknown,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,11,open,systat,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,12,open,unknown,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,13,open,daytime,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,14,open,unknown,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,15,open,netstat,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,16,open,unknown,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,17,open,qotd,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,18,open,msp,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,19,open,chargen,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,20,open,ftp-data,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,21,open,ftp,1,1,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,22,open,ssh,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,23,open,telnet,1,1,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,24,open,priv-mail,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,25,open,smtp,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,26,open,rsftp,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,27,open,nsw-fe,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,28,open,unknown,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,29,open,msg-icp,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,30,open,unknown,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,31,open,msg-auth,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,32,open,unknown,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,33,open,dsp,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,34,open,unknown,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,35,open,priv-print,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,36,open,unknown,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,37,open,time,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,38,open,rap,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,39,open,rlp,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,40,open,unknown,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,41,open,graphics,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,42,open,nameserver,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,43,open,whois,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,44,open,mpm-flags,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,45,open,mpm,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,46,open,mpm-snd,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,47,open,ni-ftp,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,48,open,auditd,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,49,open,tacacs,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,50,open,re-mail-ck,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,51,open,la-maint,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,52,open,xns-time,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,53,open,domain,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,54,open,xns-ch,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,55,open,isi-gl,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,56,open,xns-auth,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,57,open,priv-term,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,58,open,xns-mail,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,59,open,priv-file,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,60,open,unknown,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,61,open,ni-mail,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,62,open,acas,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,63,open,via-ftp,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,64,open,covia,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,65,open,tacacs-ds,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,66,open,sqlnet,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,67,open,dhcps,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,68,open,dhcpc,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,69,open,tftp,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,70,open,gopher,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,71,open,netrjs-1,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,72,open,netrjs-2,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,73,open,netrjs-3,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,74,open,netrjs-4,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,75,open,priv-dial,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,76,open,deos,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,77,open,priv-rje,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,78,open,vettcp,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,79,open,finger,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,80,open,http,1,1,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,81,open,hosts2-ns,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,82,open,xfer,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,83,open,mit-ml-dev,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,84,open,ctf,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,85,open,mit-ml-dev,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,86,open,mfcobol,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,87,open,priv-term-l,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,88,open,kerberos-sec,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,89,open,su-mit-tg,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,90,open,dnsix,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,91,open,mit-dov,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,92,open,npp,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,93,open,dcp,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,94,open,objcall,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,95,open,supdup,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,96,open,dixie,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,97,open,swift-rvf,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,98,open,linuxconf,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,99,open,metagram,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,100,open,newacct,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,1,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,2,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,3,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,4,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,5,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,6,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,7,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,8,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,9,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,10,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,11,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,12,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,13,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,14,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,15,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,16,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,17,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,18,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,19,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,20,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,21,open,tcpwrapped,1,1,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,22,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,23,open,tcpwrapped,1,1,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,24,open,tcpwrapped,1,0,0
+140.150.46.216,Singapore,Singapore,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,25,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,1,open,tcpmux,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,2,open,compressnet,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,3,open,compressnet,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,4,open,unknown,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,5,open,rje,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,6,open,unknown,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,7,open,echo,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,8,open,unknown,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,9,open,discard,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,10,open,unknown,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,11,open,systat,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,12,open,unknown,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,13,open,daytime,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,14,open,unknown,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,15,open,netstat,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,16,open,unknown,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,17,open,qotd,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,18,open,msp,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,19,open,chargen,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,20,open,ftp-data,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,21,open,ftp,1,1,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,22,open,ssh,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,23,open,telnet,1,1,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,24,open,priv-mail,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,25,open,smtp,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,26,open,rsftp,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,27,open,nsw-fe,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,28,open,unknown,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,29,open,msg-icp,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,30,open,unknown,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,31,open,msg-auth,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,32,open,unknown,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,33,open,dsp,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,34,open,unknown,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,35,open,priv-print,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,36,open,unknown,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,37,open,time,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,38,open,rap,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,39,open,rlp,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,40,open,unknown,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,41,open,graphics,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,42,open,nameserver,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,43,open,whois,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,44,open,mpm-flags,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,45,open,mpm,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,46,open,mpm-snd,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,47,open,ni-ftp,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,48,open,auditd,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,49,open,tacacs,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,50,open,re-mail-ck,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,51,open,la-maint,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,52,open,xns-time,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,53,open,domain,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,54,open,xns-ch,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,55,open,isi-gl,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,56,open,xns-auth,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,57,open,priv-term,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,58,open,xns-mail,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,59,open,priv-file,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,60,open,unknown,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,61,open,ni-mail,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,62,open,acas,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,63,open,via-ftp,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,64,open,covia,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,65,open,tacacs-ds,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,66,open,sqlnet,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,67,open,dhcps,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,68,open,dhcpc,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,69,open,tftp,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,70,open,gopher,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,71,open,netrjs-1,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,72,open,netrjs-2,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,73,open,netrjs-3,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,74,open,netrjs-4,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,75,open,priv-dial,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,76,open,deos,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,77,open,priv-rje,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,78,open,vettcp,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,79,open,finger,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,80,open,http,1,1,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,81,open,hosts2-ns,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,82,open,xfer,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,83,open,mit-ml-dev,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,84,open,ctf,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,85,open,mit-ml-dev,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,86,open,mfcobol,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,87,open,priv-term-l,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,88,open,kerberos-sec,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,89,open,su-mit-tg,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,90,open,dnsix,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,91,open,mit-dov,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,92,open,npp,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,93,open,dcp,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,94,open,objcall,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,95,open,supdup,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,96,open,dixie,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,97,open,swift-rvf,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,98,open,linuxconf,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,99,open,metagram,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,100,open,newacct,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,1,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,2,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,3,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,4,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,5,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,6,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,7,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,8,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,9,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,10,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,11,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,12,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,13,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,14,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,15,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,16,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,17,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,18,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,19,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,20,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,21,open,tcpwrapped,1,1,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,22,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,23,open,tcpwrapped,1,1,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,24,open,tcpwrapped,1,0,0
+140.150.31.27,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,25,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,1,open,tcpmux,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,2,open,compressnet,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,3,open,compressnet,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,4,open,unknown,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,5,open,rje,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,6,open,unknown,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,7,open,echo,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,8,open,unknown,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,9,open,discard,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,10,open,unknown,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,11,open,systat,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,12,open,unknown,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,13,open,daytime,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,14,open,unknown,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,15,open,netstat,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,16,open,unknown,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,17,open,qotd,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,18,open,msp,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,19,open,chargen,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,20,open,ftp-data,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,21,open,ftp,1,1,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,22,open,ssh,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,23,open,telnet,1,1,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,24,open,priv-mail,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,25,open,smtp,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,26,open,rsftp,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,27,open,nsw-fe,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,28,open,unknown,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,29,open,msg-icp,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,30,open,unknown,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,31,open,msg-auth,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,32,open,unknown,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,33,open,dsp,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,34,open,unknown,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,35,open,priv-print,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,36,open,unknown,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,37,open,time,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,38,open,rap,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,39,open,rlp,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,40,open,unknown,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,41,open,graphics,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,42,open,nameserver,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,43,open,whois,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,44,open,mpm-flags,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,45,open,mpm,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,46,open,mpm-snd,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,47,open,ni-ftp,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,48,open,auditd,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,49,open,tacacs,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,50,open,re-mail-ck,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,51,open,la-maint,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,52,open,xns-time,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,53,open,domain,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,54,open,xns-ch,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,55,open,isi-gl,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,56,open,xns-auth,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,57,open,priv-term,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,58,open,xns-mail,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,59,open,priv-file,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,60,open,unknown,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,61,open,ni-mail,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,62,open,acas,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,63,open,via-ftp,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,64,open,covia,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,65,open,tacacs-ds,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,66,open,sqlnet,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,67,open,dhcps,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,68,open,dhcpc,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,69,open,tftp,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,70,open,gopher,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,71,open,netrjs-1,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,72,open,netrjs-2,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,73,open,netrjs-3,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,74,open,netrjs-4,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,75,open,priv-dial,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,76,open,deos,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,77,open,priv-rje,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,78,open,vettcp,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,79,open,finger,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,80,open,http,1,1,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,81,open,hosts2-ns,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,82,open,xfer,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,83,open,mit-ml-dev,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,84,open,ctf,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,85,open,mit-ml-dev,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,86,open,mfcobol,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,87,open,priv-term-l,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,88,open,kerberos-sec,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,89,open,su-mit-tg,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,90,open,dnsix,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,91,open,mit-dov,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,92,open,npp,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,93,open,dcp,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,94,open,objcall,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,95,open,supdup,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,96,open,dixie,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,97,open,swift-rvf,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,98,open,linuxconf,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,99,open,metagram,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,100,open,newacct,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,1,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,2,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,3,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,4,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,5,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,6,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,7,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,8,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,9,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,10,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,11,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,12,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,13,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,14,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,15,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,16,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,17,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,18,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,19,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,20,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,21,open,tcpwrapped,1,1,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,22,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,23,open,tcpwrapped,1,1,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,24,open,tcpwrapped,1,0,0
+140.150.31.91,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,25,open,tcpwrapped,1,0,0
+8.138.226.8,Guangzhou,China,"AS37963 Hangzhou Alibaba Advertising Co.,Ltd.",0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,None,None,None,0,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,1,open,tcpmux,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,2,open,compressnet,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,3,open,compressnet,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,4,open,unknown,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,5,open,rje,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,6,open,unknown,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,7,open,echo,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,8,open,unknown,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,9,open,discard,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,10,open,unknown,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,11,open,systat,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,12,open,unknown,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,13,open,daytime,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,14,open,unknown,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,15,open,netstat,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,16,open,unknown,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,17,open,qotd,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,18,open,msp,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,19,open,chargen,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,20,open,ftp-data,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,21,open,ftp,1,1,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,22,open,ssh,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,23,open,telnet,1,1,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,24,open,priv-mail,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,25,open,smtp,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,26,open,rsftp,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,27,open,nsw-fe,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,28,open,unknown,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,29,open,msg-icp,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,30,open,unknown,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,31,open,msg-auth,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,32,open,unknown,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,33,open,dsp,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,34,open,unknown,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,35,open,priv-print,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,36,open,unknown,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,37,open,time,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,38,open,rap,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,39,open,rlp,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,40,open,unknown,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,41,open,graphics,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,42,open,nameserver,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,43,open,whois,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,44,open,mpm-flags,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,45,open,mpm,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,46,open,mpm-snd,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,47,open,ni-ftp,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,48,open,auditd,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,49,open,tacacs,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,50,open,re-mail-ck,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,51,open,la-maint,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,52,open,xns-time,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,53,open,domain,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,54,open,xns-ch,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,55,open,isi-gl,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,56,open,xns-auth,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,57,open,priv-term,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,58,open,xns-mail,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,59,open,priv-file,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,60,open,unknown,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,61,open,ni-mail,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,62,open,acas,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,63,open,via-ftp,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,64,open,covia,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,65,open,tacacs-ds,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,66,open,sqlnet,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,67,open,dhcps,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,68,open,dhcpc,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,69,open,tftp,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,70,open,gopher,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,71,open,netrjs-1,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,72,open,netrjs-2,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,73,open,netrjs-3,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,74,open,netrjs-4,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,75,open,priv-dial,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,76,open,deos,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,77,open,priv-rje,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,78,open,vettcp,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,79,open,finger,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,80,open,http,1,1,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,81,open,hosts2-ns,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,82,open,xfer,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,83,open,mit-ml-dev,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,84,open,ctf,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,85,open,mit-ml-dev,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,86,open,mfcobol,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,87,open,priv-term-l,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,88,open,kerberos-sec,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,89,open,su-mit-tg,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,90,open,dnsix,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,91,open,mit-dov,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,92,open,npp,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,93,open,dcp,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,94,open,objcall,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,95,open,supdup,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,96,open,dixie,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,97,open,swift-rvf,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,98,open,linuxconf,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,99,open,metagram,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,100,open,newacct,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,1,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,2,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,3,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,4,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,5,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,6,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,7,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,8,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,9,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,10,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,11,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,12,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,13,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,14,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,15,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,16,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,17,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,18,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,19,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,20,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,21,open,tcpwrapped,1,1,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,22,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,23,open,tcpwrapped,1,1,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,24,open,tcpwrapped,1,0,0
+140.150.30.223,Toronto,Canada,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,25,open,tcpwrapped,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,33,open,dsp,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,83,open,mit-ml-dev,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,33,open,http nginx,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,83,open,http nginx,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+157.185.179.197,Chicago,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+148.163.152.163,Atlanta,United States,"AS22843 Proofpoint, Inc.",2,0,0,0,0,10,,0,0,2,0,0,0,0,0,0,0,0,25,open,smtp,1,0,0
+148.163.152.163,Atlanta,United States,"AS22843 Proofpoint, Inc.",2,0,0,0,0,10,,0,0,2,0,0,0,0,0,0,0,0,25,open,smtp,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+138.113.24.62,San Jose,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+140.150.29.33,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+157.185.163.79,Boston,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+38.152.82.135,Buffalo,United States,AS55286 B2 Net Solutions Inc.,2,0,0,0,0,10,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+38.152.82.135,Buffalo,United States,AS55286 B2 Net Solutions Inc.,2,0,0,0,0,10,,2,0,0,0,0,1,0,0,0,0,0,80,open,http-proxy Squid http proxy 3.1.23,1,1,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,33,open,dsp,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,83,open,mit-ml-dev,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,33,open,http nginx,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,83,open,http nginx,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+157.185.158.34,Miami,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,61,open,ni-mail,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,65,open,tacacs-ds,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,66,open,sqlnet,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,83,open,mit-ml-dev,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,96,open,dixie,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,97,open,swift-rvf,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,61,open,http nginx,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,65,open,http nginx,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,66,open,http nginx,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,83,open,http nginx,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,96,open,http nginx,1,0,0
+138.113.134.102,Los Angeles,United States,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,97,open,http nginx,1,0,0
+50.62.146.123,Phoenix,United States,"AS398101 GoDaddy.com, LLC",0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,None,None,None,0,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,1,open,tcpmux,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,2,open,compressnet,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,3,open,compressnet,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,4,open,unknown,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,5,open,rje,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,6,open,unknown,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,7,open,echo,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,8,open,unknown,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,9,open,discard,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,10,open,unknown,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,11,open,systat,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,12,open,unknown,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,13,open,daytime,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,14,open,unknown,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,15,open,netstat,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,16,open,unknown,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,17,open,qotd,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,18,open,msp,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,19,open,chargen,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,20,open,ftp-data,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,21,open,ftp,1,1,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,22,open,ssh,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,23,open,telnet,1,1,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,24,open,priv-mail,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,25,open,smtp,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,26,open,rsftp,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,27,open,nsw-fe,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,28,open,unknown,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,29,open,msg-icp,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,30,open,unknown,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,31,open,msg-auth,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,32,open,unknown,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,33,open,dsp,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,34,open,unknown,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,35,open,priv-print,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,36,open,unknown,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,37,open,time,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,38,open,rap,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,39,open,rlp,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,40,open,unknown,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,41,open,graphics,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,42,open,nameserver,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,43,open,whois,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,44,open,mpm-flags,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,45,open,mpm,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,46,open,mpm-snd,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,47,open,ni-ftp,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,48,open,auditd,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,49,open,tacacs,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,50,open,re-mail-ck,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,51,open,la-maint,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,52,open,xns-time,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,53,open,domain,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,54,open,xns-ch,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,55,open,isi-gl,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,56,open,xns-auth,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,57,open,priv-term,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,58,open,xns-mail,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,59,open,priv-file,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,60,open,unknown,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,61,open,ni-mail,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,62,open,acas,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,63,open,via-ftp,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,64,open,covia,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,65,open,tacacs-ds,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,66,open,sqlnet,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,67,open,dhcps,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,68,open,dhcpc,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,69,open,tftp,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,70,open,gopher,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,71,open,netrjs-1,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,72,open,netrjs-2,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,73,open,netrjs-3,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,74,open,netrjs-4,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,75,open,priv-dial,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,76,open,deos,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,77,open,priv-rje,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,78,open,vettcp,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,79,open,finger,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,80,open,http,1,1,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,81,open,hosts2-ns,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,82,open,xfer,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,83,open,mit-ml-dev,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,84,open,ctf,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,85,open,mit-ml-dev,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,86,open,mfcobol,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,87,open,priv-term-l,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,88,open,kerberos-sec,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,89,open,su-mit-tg,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,90,open,dnsix,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,91,open,mit-dov,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,92,open,npp,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,93,open,dcp,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,94,open,objcall,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,95,open,supdup,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,96,open,dixie,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,97,open,swift-rvf,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,98,open,linuxconf,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,99,open,metagram,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,100,open,newacct,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,1,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,2,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,3,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,4,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,5,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,6,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,7,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,8,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,9,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,10,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,11,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,12,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,13,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,14,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,15,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,16,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,17,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,18,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,19,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,20,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,21,open,tcpwrapped,1,1,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,22,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,23,open,tcpwrapped,1,1,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,24,open,tcpwrapped,1,0,0
+66.114.52.71,New York City,United States,AS54994 Meteverse Limited.,125,0,0,25,0,295,,1,4,2,0,2,1,1,0,0,0,0,25,open,tcpwrapped,1,0,0
+96.126.121.249,Richardson,United States,AS63949 Akamai Connected Cloud,4,0,4,0,0,20,,1,2,1,0,0,1,1,0,0,0,0,20,closed,ftp-data,0,0,0
+96.126.121.249,Richardson,United States,AS63949 Akamai Connected Cloud,4,0,4,0,0,20,,1,2,1,0,0,1,1,0,0,0,0,21,closed,ftp,0,1,0
+96.126.121.249,Richardson,United States,AS63949 Akamai Connected Cloud,4,0,4,0,0,20,,1,2,1,0,0,1,1,0,0,0,0,22,open,ssh,1,0,0
+96.126.121.249,Richardson,United States,AS63949 Akamai Connected Cloud,4,0,4,0,0,20,,1,2,1,0,0,1,1,0,0,0,0,25,open,smtp,1,0,0
+96.126.121.249,Richardson,United States,AS63949 Akamai Connected Cloud,4,0,4,0,0,20,,1,2,1,0,0,1,1,0,0,0,0,80,open,http,1,1,0
+96.126.121.249,Richardson,United States,AS63949 Akamai Connected Cloud,4,0,4,0,0,20,,1,2,1,0,0,1,1,0,0,0,0,20,closed,ftp-data,0,0,0
+96.126.121.249,Richardson,United States,AS63949 Akamai Connected Cloud,4,0,4,0,0,20,,1,2,1,0,0,1,1,0,0,0,0,21,closed,ftp,0,1,0
+96.126.121.249,Richardson,United States,AS63949 Akamai Connected Cloud,4,0,4,0,0,20,,1,2,1,0,0,1,1,0,0,0,0,22,open,ssh OpenSSH 8.9p1 Ubuntu 3ubuntu0.13 (Ubuntu Linux; protocol 2.0),1,0,0
+72.167.224.204,Phoenix,United States,"AS398101 GoDaddy.com, LLC",0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,None,None,None,0,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+140.150.29.39,New York City,United States,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+46.235.91.98,Al Jubayl,Saudi Arabia,AS29684 Nour Internet Company for Communications and Information Technology Ltd.,2,0,0,0,0,10,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+46.235.91.98,Al Jubayl,Saudi Arabia,AS29684 Nour Internet Company for Communications and Information Technology Ltd.,2,0,0,0,0,10,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,1,open,tcpmux,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,2,open,compressnet,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,3,open,compressnet,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,4,open,unknown,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,5,open,rje,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,6,open,unknown,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,7,open,echo,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,8,open,unknown,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,9,open,discard,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,10,open,unknown,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,11,open,systat,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,12,open,unknown,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,13,open,daytime,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,14,open,unknown,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,15,open,netstat,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,16,open,unknown,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,17,open,qotd,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,18,open,msp,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,19,open,chargen,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,20,open,ftp-data,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,21,open,ftp,1,1,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,22,filtered,ssh,0,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,23,filtered,telnet,0,1,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,24,open,priv-mail,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,25,open,smtp,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,26,open,rsftp,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,27,open,nsw-fe,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,28,open,unknown,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,29,open,msg-icp,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,30,open,unknown,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,31,open,msg-auth,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,32,open,unknown,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,33,open,dsp,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,34,open,unknown,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,35,open,priv-print,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,36,open,unknown,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,37,open,time,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,38,open,rap,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,39,open,rlp,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,40,open,unknown,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,41,open,graphics,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,42,open,nameserver,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,43,open,whois,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,44,open,mpm-flags,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,45,open,mpm,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,46,open,mpm-snd,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,47,open,ni-ftp,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,48,open,auditd,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,49,open,tacacs,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,50,open,re-mail-ck,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,51,open,la-maint,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,52,open,xns-time,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,53,open,domain,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,54,open,xns-ch,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,55,open,isi-gl,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,56,open,xns-auth,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,57,open,priv-term,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,58,open,xns-mail,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,59,open,priv-file,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,60,open,unknown,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,61,open,ni-mail,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,62,open,acas,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,63,open,via-ftp,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,64,open,covia,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,65,open,tacacs-ds,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,66,open,sqlnet,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,67,open,dhcps,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,68,open,dhcpc,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,69,open,tftp,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,70,open,gopher,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,71,open,netrjs-1,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,72,open,netrjs-2,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,73,open,netrjs-3,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,74,open,netrjs-4,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,75,open,priv-dial,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,76,open,deos,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,77,open,priv-rje,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,78,open,vettcp,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,79,open,finger,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,80,open,http,1,1,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,81,open,hosts2-ns,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,82,open,xfer,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,83,open,mit-ml-dev,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,84,open,ctf,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,85,open,mit-ml-dev,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,86,open,mfcobol,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,87,open,priv-term-l,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,88,open,kerberos-sec,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,89,open,su-mit-tg,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,90,open,dnsix,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,91,open,mit-dov,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,92,open,npp,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,93,open,dcp,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,94,open,objcall,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,95,open,supdup,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,96,open,dixie,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,97,open,swift-rvf,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,98,open,linuxconf,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,99,open,metagram,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,100,open,newacct,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,1,open,http HikVision NVR or camera http config,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,2,open,http HikVision NVR or camera http config,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,3,open,http HikVision NVR or camera http config,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,4,open,http HikVision NVR or camera http config,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,5,open,http HikVision NVR or camera http config,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,6,open,http HikVision NVR or camera http config,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,7,open,http HikVision NVR or camera http config,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,8,open,http HikVision NVR or camera http config,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,9,open,http HikVision NVR or camera http config,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,10,open,http HikVision NVR or camera http config,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,11,open,http HikVision NVR or camera http config,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,12,open,http HikVision NVR or camera http config,1,0,0
+167.86.148.17,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,111,2,0,0,0,305,,1,1,1,0,0,1,1,0,0,0,0,13,open,http HikVision NVR or camera http config,1,0,0
+178.81.35.204,Dammam,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,0,0,0,0,10,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+178.81.35.204,Dammam,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,0,0,0,0,10,,2,0,0,0,0,1,0,0,0,0,0,80,open,http HikVision NVR or camera http config,1,1,0
+167.86.182.235,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,2,0,0,0,0,10,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+167.86.182.235,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,2,0,0,0,0,10,,2,0,0,0,0,1,0,0,0,0,0,80,open,http HikVision NVR or camera http config,1,1,0
+178.81.33.2,Dammam,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,None,None,None,0,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,61,open,ni-mail,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,65,open,tacacs-ds,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,66,open,sqlnet,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,83,open,mit-ml-dev,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,96,open,dixie,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,97,open,swift-rvf,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,61,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,65,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,66,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,83,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,96,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,97,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,61,open,ni-mail,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,65,open,tacacs-ds,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,66,open,sqlnet,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,83,open,mit-ml-dev,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,96,open,dixie,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,97,open,swift-rvf,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,61,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,65,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,66,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,83,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,96,open,http nginx,1,0,0
+163.171.152.215,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,76,0,0,0,0,292,,4,0,0,0,0,1,0,0,0,0,0,97,open,http nginx,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,61,open,ni-mail,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,65,open,tacacs-ds,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,66,open,sqlnet,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,83,open,mit-ml-dev,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,96,open,dixie,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,97,open,swift-rvf,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,61,open,http nginx,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,65,open,http nginx,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,66,open,http nginx,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,83,open,http nginx,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,96,open,http nginx,1,0,0
+163.171.152.98,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,97,open,http nginx,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,61,open,ni-mail,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,65,open,tacacs-ds,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,66,open,sqlnet,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,83,open,mit-ml-dev,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,96,open,dixie,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,97,open,swift-rvf,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,61,open,http nginx,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,65,open,http nginx,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,66,open,http nginx,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,83,open,http nginx,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,96,open,http nginx,1,0,0
+148.253.230.83,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,97,open,http nginx,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,61,open,ni-mail,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,65,open,tacacs-ds,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,66,open,sqlnet,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,83,open,mit-ml-dev,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,96,open,dixie,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,97,open,swift-rvf,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,61,open,http nginx,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,65,open,http nginx,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,66,open,http nginx,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,83,open,http nginx,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,96,open,http nginx,1,0,0
+148.253.230.22,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,97,open,http nginx,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+163.171.152.82,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,61,open,ni-mail,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,65,open,tacacs-ds,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,66,open,sqlnet,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,83,open,mit-ml-dev,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,96,open,dixie,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,97,open,swift-rvf,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,61,open,http nginx,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,65,open,http nginx,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,66,open,http nginx,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,83,open,http nginx,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,96,open,http nginx,1,0,0
+148.253.230.208,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,97,open,http nginx,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+163.171.207.95,Jeddah,Saudi Arabia,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,61,open,ni-mail,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,65,open,tacacs-ds,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,66,open,sqlnet,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,83,open,mit-ml-dev,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,96,open,dixie,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,97,open,swift-rvf,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,61,open,http nginx,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,65,open,http nginx,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,66,open,http nginx,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,83,open,http nginx,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,96,open,http nginx,1,0,0
+148.253.230.85,Riyadh,Saudi Arabia,AS54994 Meteverse Limited.,38,0,0,0,0,136,,2,0,0,0,0,1,0,0,0,0,0,97,open,http nginx,1,0,0
+2.89.137.61,Al Jubayl,Saudi Arabia,AS25019 Saudi Telecom Company JSC,2,0,0,0,0,10,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+2.89.137.61,Al Jubayl,Saudi Arabia,AS25019 Saudi Telecom Company JSC,2,0,0,0,0,10,,2,0,0,0,0,1,0,0,0,0,0,80,open,http HikVision NVR or camera http config,1,1,0
+141.179.41.32,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,6,4,0,1,0,24,,2,2,0,0,0,1,1,0,0,0,0,21,open,ftp,1,1,0
+141.179.41.32,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,6,4,0,1,0,24,,2,2,0,0,0,1,1,0,0,0,0,22,filtered,ssh,0,0,0
+141.179.41.32,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,6,4,0,1,0,24,,2,2,0,0,0,1,1,0,0,0,0,23,filtered,telnet,0,1,0
+141.179.41.32,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,6,4,0,1,0,24,,2,2,0,0,0,1,1,0,0,0,0,53,open,domain,1,0,0
+141.179.41.32,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,6,4,0,1,0,24,,2,2,0,0,0,1,1,0,0,0,0,80,open,http,1,1,0
+141.179.41.32,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,6,4,0,1,0,24,,2,2,0,0,0,1,1,0,0,0,0,21,open,ftp OpenBSD ftpd 6.4 (Linux port 0.17),1,1,0
+141.179.41.32,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,6,4,0,1,0,24,,2,2,0,0,0,1,1,0,0,0,0,22,filtered,ssh,0,0,0
+141.179.41.32,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,6,4,0,1,0,24,,2,2,0,0,0,1,1,0,0,0,0,23,filtered,telnet,0,1,0
+141.179.41.32,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,6,4,0,1,0,24,,2,2,0,0,0,1,1,0,0,0,0,53,open,tcpwrapped,1,0,0
+141.179.41.32,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,6,4,0,1,0,24,,2,2,0,0,0,1,1,0,0,0,0,80,open,http,1,1,0
+178.81.253.154,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,20,filtered,ftp-data,0,0,0
+178.81.253.154,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,21,filtered,ftp,0,1,0
+178.81.253.154,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,22,filtered,ssh,0,0,0
+178.81.253.154,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,23,filtered,telnet,0,1,0
+178.81.253.154,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,53,filtered,domain,0,0,0
+178.81.253.154,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,80,open,http,1,1,0
+178.81.253.154,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,20,filtered,ftp-data,0,0,0
+178.81.253.154,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,21,filtered,ftp,0,1,0
+178.81.253.154,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,22,filtered,ssh,0,0,0
+178.81.253.154,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,23,filtered,telnet,0,1,0
+178.81.253.154,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,53,filtered,domain,0,0,0
+178.81.253.154,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,80,open,http HikVision NVR or camera http config,1,1,0
+167.100.255.115,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,2,4,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,22,filtered,ssh,0,0,0
+167.100.255.115,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,2,4,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,23,filtered,telnet,0,1,0
+167.100.255.115,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,2,4,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,80,open,http,1,1,0
+167.100.255.115,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,2,4,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,22,filtered,ssh,0,0,0
+167.100.255.115,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,2,4,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,23,filtered,telnet,0,1,0
+167.100.255.115,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,2,4,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,80,open,http HikVision NVR or camera http config,1,1,0
+178.80.241.116,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,20,filtered,ftp-data,0,0,0
+178.80.241.116,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,21,filtered,ftp,0,1,0
+178.80.241.116,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,22,filtered,ssh,0,0,0
+178.80.241.116,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,23,filtered,telnet,0,1,0
+178.80.241.116,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,53,filtered,domain,0,0,0
+178.80.241.116,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,80,open,http,1,1,0
+178.80.241.116,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,20,filtered,ftp-data,0,0,0
+178.80.241.116,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,21,filtered,ftp,0,1,0
+178.80.241.116,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,22,filtered,ssh,0,0,0
+178.80.241.116,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,23,filtered,telnet,0,1,0
+178.80.241.116,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,53,filtered,domain,0,0,0
+178.80.241.116,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",2,10,0,0,0,10,,2,0,0,0,0,1,1,0,0,0,0,80,open,http HikVision NVR or camera http config,1,1,0
+178.81.240.2,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",0,12,0,0,0,0,,0,0,0,0,0,1,1,0,0,0,0,20,filtered,ftp-data,0,0,0
+178.81.240.2,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",0,12,0,0,0,0,,0,0,0,0,0,1,1,0,0,0,0,21,filtered,ftp,0,1,0
+178.81.240.2,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",0,12,0,0,0,0,,0,0,0,0,0,1,1,0,0,0,0,22,filtered,ssh,0,0,0
+178.81.240.2,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",0,12,0,0,0,0,,0,0,0,0,0,1,1,0,0,0,0,23,filtered,telnet,0,1,0
+178.81.240.2,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",0,12,0,0,0,0,,0,0,0,0,0,1,1,0,0,0,0,53,filtered,domain,0,0,0
+178.81.240.2,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",0,12,0,0,0,0,,0,0,0,0,0,1,1,0,0,0,0,80,filtered,http,0,1,0
+178.81.240.2,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",0,12,0,0,0,0,,0,0,0,0,0,1,1,0,0,0,0,20,filtered,ftp-data,0,0,0
+178.81.240.2,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",0,12,0,0,0,0,,0,0,0,0,0,1,1,0,0,0,0,21,filtered,ftp,0,1,0
+178.81.240.2,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",0,12,0,0,0,0,,0,0,0,0,0,1,1,0,0,0,0,22,filtered,ssh,0,0,0
+178.81.240.2,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",0,12,0,0,0,0,,0,0,0,0,0,1,1,0,0,0,0,23,filtered,telnet,0,1,0
+178.81.240.2,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",0,12,0,0,0,0,,0,0,0,0,0,1,1,0,0,0,0,53,filtered,domain,0,0,0
+178.81.240.2,Khobar,Saudi Arabia,"AS35819 Etihad Etisalat, a joint stock company",0,12,0,0,0,0,,0,0,0,0,0,1,1,0,0,0,0,80,filtered,http,0,1,0
+145.82.48.170,Dammam,Saudi Arabia,AS25019 Saudi Telecom Company JSC,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,None,None,None,0,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+157.185.190.66,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+157.185.190.19,Cairo,Egypt,AS54994 Meteverse Limited.,52,0,0,0,0,208,,4,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+157.185.190.71,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,33,open,dsp,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,83,open,mit-ml-dev,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,33,open,http nginx,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,83,open,http nginx,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+157.185.190.78,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+157.185.190.22,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,33,open,dsp,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,83,open,mit-ml-dev,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,33,open,http nginx,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,83,open,http nginx,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+157.185.190.21,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,98,open,linuxconf,1,0,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+157.185.190.8,Cairo,Egypt,AS54994 Meteverse Limited.,20,0,0,0,0,73,,2,0,0,0,0,1,0,0,0,0,0,98,open,http nginx,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http,1,1,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,hosts2-ns,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,xfer,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,ctf,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,mit-ml-dev,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,mfcobol,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,kerberos-sec,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,su-mit-tg,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,dnsix,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,mit-dov,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,npp,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,dcp,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,objcall,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,80,open,http nginx,1,1,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,81,open,http nginx,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,82,open,http nginx,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,84,open,http nginx,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,85,open,http nginx,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,86,open,http nginx,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,88,open,http nginx,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,89,open,http nginx,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,90,open,http nginx,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,91,open,http nginx,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,92,open,http nginx,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,93,open,http nginx,1,0,0
+157.185.190.72,Cairo,Egypt,AS54994 Meteverse Limited.,26,0,0,0,0,94,,2,0,0,0,0,1,0,0,0,0,0,94,open,http nginx,1,0,0
+123.146.62.50,,,,7,0,2,0,0,32,,1,4,1,0,0,1,1,0,0,0,0,20,closed,ftp-data,0,0,0
+123.146.62.50,,,,7,0,2,0,0,32,,1,4,1,0,0,1,1,0,0,0,0,21,open,ftp,1,1,0
+123.146.62.50,,,,7,0,2,0,0,32,,1,4,1,0,0,1,1,0,0,0,0,22,open,ssh,1,0,0
+123.146.62.50,,,,7,0,2,0,0,32,,1,4,1,0,0,1,1,0,0,0,0,25,open,smtp,1,0,0
+123.146.62.50,,,,7,0,2,0,0,32,,1,4,1,0,0,1,1,0,0,0,0,70,open,gopher,1,0,0
+123.146.62.50,,,,7,0,2,0,0,32,,1,4,1,0,0,1,1,0,0,0,0,80,open,http,1,1,0
+123.146.62.50,,,,7,0,2,0,0,32,,1,4,1,0,0,1,1,0,0,0,0,20,closed,ftp-data,0,0,0
+123.146.62.50,,,,7,0,2,0,0,32,,1,4,1,0,0,1,1,0,0,0,0,21,open,ftp Pure-FTPd,1,1,0
+123.146.62.50,,,,7,0,2,0,0,32,,1,4,1,0,0,1,1,0,0,0,0,22,open,ssh OpenSSH 8.0 (protocol 2.0),1,0,0
+204.224.167.72,,,,5,0,0,0,0,22,,1,2,1,0,0,1,1,0,0,0,0,22,open,ssh,1,0,0
+204.224.167.72,,,,5,0,0,0,0,22,,1,2,1,0,0,1,1,0,0,0,0,25,open,smtp,1,0,0
+204.224.167.72,,,,5,0,0,0,0,22,,1,2,1,0,0,1,1,0,0,0,0,53,open,domain,1,0,0
+204.224.167.72,,,,5,0,0,0,0,22,,1,2,1,0,0,1,1,0,0,0,0,80,open,http,1,1,0
+204.224.167.72,,,,5,0,0,0,0,22,,1,2,1,0,0,1,1,0,0,0,0,22,open,ssh OpenSSH 7.4 (protocol 2.0),1,0,0

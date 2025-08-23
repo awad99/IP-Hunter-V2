@@ -1,0 +1,3250 @@
+Decimal: 47.123.157.86
+City: Shanghai
+State/Region: Shanghai
+Country: China
+timezone: Asia/Shanghai
+Assignment: AS37963 Hangzhou Alibaba Advertising Co.,Ltd.
+==================================================
+Decimal: 118.178.233.65
+City: Hangzhou
+State/Region: Zhejiang
+Country: China
+timezone: Asia/Shanghai
+Assignment: AS37963 Hangzhou Alibaba Advertising Co.,Ltd.
+==================================================
+Decimal: 140.150.46.216
+City: Singapore
+State/Region: Singapore
+Country: Singapore
+timezone: Asia/Singapore
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 140.150.31.27
+City: Toronto
+State/Region: Ontario
+Country: Canada
+timezone: America/Toronto
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 140.150.31.91
+City: Toronto
+State/Region: Ontario
+Country: Canada
+timezone: America/Toronto
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 8.138.226.8
+City: Guangzhou
+State/Region: Guangdong
+Country: China
+timezone: Asia/Shanghai
+Assignment: AS37963 Hangzhou Alibaba Advertising Co.,Ltd.
+==================================================
+Decimal: 140.150.30.223
+City: Toronto
+State/Region: Ontario
+Country: Canada
+timezone: America/Toronto
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 157.185.179.197
+City: Chicago
+State/Region: Illinois
+Country: United States
+timezone: America/Chicago
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 148.163.152.163
+City: Atlanta
+State/Region: Georgia
+Country: United States
+timezone: America/New_York
+Assignment: AS22843 Proofpoint, Inc.
+==================================================
+Decimal: 138.113.24.62
+City: San Jose
+State/Region: California
+Country: United States
+timezone: America/Los_Angeles
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 140.150.29.33
+City: New York City
+State/Region: New York
+Country: United States
+timezone: America/New_York
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 157.185.163.79
+City: Boston
+State/Region: Massachusetts
+Country: United States
+timezone: America/New_York
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 38.152.82.135
+City: Buffalo
+State/Region: New York
+Country: United States
+timezone: America/New_York
+Assignment: AS55286 B2 Net Solutions Inc.
+==================================================
+Decimal: 157.185.158.34
+City: Miami
+State/Region: Florida
+Country: United States
+timezone: America/New_York
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 138.113.134.102
+City: Los Angeles
+State/Region: California
+Country: United States
+timezone: America/Los_Angeles
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 50.62.146.123
+City: Phoenix
+State/Region: Arizona
+Country: United States
+timezone: America/Phoenix
+Assignment: AS398101 GoDaddy.com, LLC
+==================================================
+Decimal: 66.114.52.71
+City: New York City
+State/Region: New York
+Country: United States
+timezone: America/New_York
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 96.126.121.249
+City: Richardson
+State/Region: Texas
+Country: United States
+timezone: America/Chicago
+Assignment: AS63949 Akamai Connected Cloud
+==================================================
+Decimal: 72.167.224.204
+City: Phoenix
+State/Region: Arizona
+Country: United States
+timezone: America/Phoenix
+Assignment: AS398101 GoDaddy.com, LLC
+==================================================
+Decimal: 140.150.29.39
+City: New York City
+State/Region: New York
+Country: United States
+timezone: America/New_York
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 46.235.91.98
+City: Al Jubayl
+State/Region: Eastern Province
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS29684 Nour Internet Company for Communications and Information Technology Ltd.
+==================================================
+Decimal: 167.86.148.17
+City: Dammam
+State/Region: Eastern Province
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS25019 Saudi Telecom Company JSC
+==================================================
+Decimal: 178.81.35.204
+City: Dammam
+State/Region: Eastern Province
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS35819 Etihad Etisalat, a joint stock company
+==================================================
+Decimal: 167.86.182.235
+City: Dammam
+State/Region: Eastern Province
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS25019 Saudi Telecom Company JSC
+==================================================
+Decimal: 178.81.33.2
+City: Dammam
+State/Region: Eastern Province
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS35819 Etihad Etisalat, a joint stock company
+==================================================
+Decimal: 163.171.152.215
+City: Riyadh
+State/Region: Riyadh Region
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 163.171.152.98
+City: Riyadh
+State/Region: Riyadh Region
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 148.253.230.83
+City: Riyadh
+State/Region: Riyadh Region
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 148.253.230.22
+City: Riyadh
+State/Region: Riyadh Region
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 163.171.152.82
+City: Riyadh
+State/Region: Riyadh Region
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 163.171.152.215
+City: Riyadh
+State/Region: Riyadh Region
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 148.253.230.208
+City: Riyadh
+State/Region: Riyadh Region
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 163.171.207.95
+City: Jeddah
+State/Region: Mecca Region
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 148.253.230.85
+City: Riyadh
+State/Region: Riyadh Region
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 2.89.137.61
+City: Al Jubayl
+State/Region: Eastern Province
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS25019 Saudi Telecom Company JSC
+==================================================
+Decimal: 141.179.41.32
+City: Dammam
+State/Region: Eastern Province
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS25019 Saudi Telecom Company JSC
+==================================================
+Decimal: 178.81.253.154
+City: Khobar
+State/Region: Eastern Province
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS35819 Etihad Etisalat, a joint stock company
+==================================================
+Decimal: 167.100.255.115
+City: Dammam
+State/Region: Eastern Province
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS25019 Saudi Telecom Company JSC
+==================================================
+Decimal: 178.80.241.116
+City: Khobar
+State/Region: Eastern Province
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS35819 Etihad Etisalat, a joint stock company
+==================================================
+Decimal: 178.81.240.2
+City: Khobar
+State/Region: Eastern Province
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS35819 Etihad Etisalat, a joint stock company
+==================================================
+Decimal: 145.82.48.170
+City: Dammam
+State/Region: Eastern Province
+Country: Saudi Arabia
+timezone: Asia/Riyadh
+Assignment: AS25019 Saudi Telecom Company JSC
+==================================================
+Decimal: 157.185.190.66
+City: Cairo
+State/Region: Cairo
+Country: Egypt
+timezone: Africa/Cairo
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 157.185.190.19
+City: Cairo
+State/Region: Cairo
+Country: Egypt
+timezone: Africa/Cairo
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 157.185.190.71
+City: Cairo
+State/Region: Cairo
+Country: Egypt
+timezone: Africa/Cairo
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 157.185.190.19
+City: Cairo
+State/Region: Cairo
+Country: Egypt
+timezone: Africa/Cairo
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 157.185.190.78
+City: Cairo
+State/Region: Cairo
+Country: Egypt
+timezone: Africa/Cairo
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 157.185.190.22
+City: Cairo
+State/Region: Cairo
+Country: Egypt
+timezone: Africa/Cairo
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 157.185.190.21
+City: Cairo
+State/Region: Cairo
+Country: Egypt
+timezone: Africa/Cairo
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 157.185.190.8
+City: Cairo
+State/Region: Cairo
+Country: Egypt
+timezone: Africa/Cairo
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Decimal: 157.185.190.72
+City: Cairo
+State/Region: Cairo
+Country: Egypt
+timezone: Africa/Cairo
+Assignment: AS54994 Meteverse Limited.
+==================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:25 +0300
+Nmap scan report for 47.123.157.86
+Host is up (0.042s latency).
+All 100 scanned ports on 47.123.157.86 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: power-device|firewall|WAP|router|print server|general purpose
+Running (JUST GUESSING): APC embedded (96%), Cisco ASA 9.X (96%), Cisco embedded (96%), Synology embedded (96%), HP embedded (93%), D-Link embedded (89%), Microsoft Windows 2000|2003 (87%)
+OS CPE: cpe:/o:cisco:asa:9.2 cpe:/h:synology:rt1900ac cpe:/h:hp:2101nw cpe:/h:dlink:di-524 cpe:/o:microsoft:windows_2000::sp4 cpe:/o:microsoft:windows_server_2003::sp2
+Aggressive OS guesses: APC Network Management Card 3 (96%), Cisco Adaptive Security Appliance (ASA 9.2) (96%), Cisco Aironet 3800-series WAP (96%), Synology RT1900ac router (96%), HP 2101nw wireless print server (93%), D-Link DI-524 wireless broadband router (89%), Microsoft Windows 2000 SP4 (87%), Microsoft Windows Server 2003 SP2 (87%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.06 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:25 +0300
+Nmap scan report for 47.123.157.86
+Host is up (0.033s latency).
+All 100 scanned ports on 47.123.157.86 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 3.06 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:25 +0300
+Nmap scan report for 118.178.233.65
+Host is up (0.039s latency).
+All 100 scanned ports on 118.178.233.65 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: power-device|firewall|WAP|router|print server|general purpose
+Running (JUST GUESSING): APC embedded (96%), Cisco ASA 9.X (96%), Cisco embedded (96%), Synology embedded (96%), HP embedded (93%), D-Link embedded (89%), Microsoft Windows 2000|2003 (87%)
+OS CPE: cpe:/o:cisco:asa:9.2 cpe:/h:synology:rt1900ac cpe:/h:hp:2101nw cpe:/h:dlink:di-524 cpe:/o:microsoft:windows_2000::sp4 cpe:/o:microsoft:windows_server_2003::sp2
+Aggressive OS guesses: APC Network Management Card 3 (96%), Cisco Adaptive Security Appliance (ASA 9.2) (96%), Cisco Aironet 3800-series WAP (96%), Synology RT1900ac router (96%), HP 2101nw wireless print server (93%), D-Link DI-524 wireless broadband router (89%), Microsoft Windows 2000 SP4 (87%), Microsoft Windows Server 2003 SP2 (87%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 5.57 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:25 +0300
+Nmap scan report for 118.178.233.65
+Host is up (0.033s latency).
+All 100 scanned ports on 118.178.233.65 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 3.02 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:25 +0300
+Nmap scan report for 140.150.46.216
+Host is up (0.25s latency).
+
+PORT    STATE SERVICE
+1/tcp   open  tcpmux
+2/tcp   open  compressnet
+3/tcp   open  compressnet
+4/tcp   open  unknown
+5/tcp   open  rje
+6/tcp   open  unknown
+7/tcp   open  echo
+8/tcp   open  unknown
+9/tcp   open  discard
+10/tcp  open  unknown
+11/tcp  open  systat
+12/tcp  open  unknown
+13/tcp  open  daytime
+14/tcp  open  unknown
+15/tcp  open  netstat
+16/tcp  open  unknown
+17/tcp  open  qotd
+18/tcp  open  msp
+19/tcp  open  chargen
+20/tcp  open  ftp-data
+21/tcp  open  ftp
+22/tcp  open  ssh
+23/tcp  open  telnet
+24/tcp  open  priv-mail
+25/tcp  open  smtp
+26/tcp  open  rsftp
+27/tcp  open  nsw-fe
+28/tcp  open  unknown
+29/tcp  open  msg-icp
+30/tcp  open  unknown
+31/tcp  open  msg-auth
+32/tcp  open  unknown
+33/tcp  open  dsp
+34/tcp  open  unknown
+35/tcp  open  priv-print
+36/tcp  open  unknown
+37/tcp  open  time
+38/tcp  open  rap
+39/tcp  open  rlp
+40/tcp  open  unknown
+41/tcp  open  graphics
+42/tcp  open  nameserver
+43/tcp  open  whois
+44/tcp  open  mpm-flags
+45/tcp  open  mpm
+46/tcp  open  mpm-snd
+47/tcp  open  ni-ftp
+48/tcp  open  auditd
+49/tcp  open  tacacs
+50/tcp  open  re-mail-ck
+51/tcp  open  la-maint
+52/tcp  open  xns-time
+53/tcp  open  domain
+54/tcp  open  xns-ch
+55/tcp  open  isi-gl
+56/tcp  open  xns-auth
+57/tcp  open  priv-term
+58/tcp  open  xns-mail
+59/tcp  open  priv-file
+60/tcp  open  unknown
+61/tcp  open  ni-mail
+62/tcp  open  acas
+63/tcp  open  via-ftp
+64/tcp  open  covia
+65/tcp  open  tacacs-ds
+66/tcp  open  sqlnet
+67/tcp  open  dhcps
+68/tcp  open  dhcpc
+69/tcp  open  tftp
+70/tcp  open  gopher
+71/tcp  open  netrjs-1
+72/tcp  open  netrjs-2
+73/tcp  open  netrjs-3
+74/tcp  open  netrjs-4
+75/tcp  open  priv-dial
+76/tcp  open  deos
+77/tcp  open  priv-rje
+78/tcp  open  vettcp
+79/tcp  open  finger
+80/tcp  open  http
+81/tcp  open  hosts2-ns
+82/tcp  open  xfer
+83/tcp  open  mit-ml-dev
+84/tcp  open  ctf
+85/tcp  open  mit-ml-dev
+86/tcp  open  mfcobol
+87/tcp  open  priv-term-l
+88/tcp  open  kerberos-sec
+89/tcp  open  su-mit-tg
+90/tcp  open  dnsix
+91/tcp  open  mit-dov
+92/tcp  open  npp
+93/tcp  open  dcp
+94/tcp  open  objcall
+95/tcp  open  supdup
+96/tcp  open  dixie
+97/tcp  open  swift-rvf
+98/tcp  open  linuxconf
+99/tcp  open  metagram
+100/tcp open  newacct
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 10.39 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:26 +0300
+Nmap scan report for 140.150.46.216
+Host is up (0.29s latency).
+
+PORT    STATE SERVICE    VERSION
+1/tcp   open  tcpwrapped
+2/tcp   open  tcpwrapped
+3/tcp   open  tcpwrapped
+4/tcp   open  tcpwrapped
+5/tcp   open  tcpwrapped
+6/tcp   open  tcpwrapped
+7/tcp   open  tcpwrapped
+8/tcp   open  tcpwrapped
+9/tcp   open  tcpwrapped
+10/tcp  open  tcpwrapped
+11/tcp  open  tcpwrapped
+12/tcp  open  tcpwrapped
+13/tcp  open  tcpwrapped
+14/tcp  open  tcpwrapped
+15/tcp  open  tcpwrapped
+16/tcp  open  tcpwrapped
+17/tcp  open  tcpwrapped
+18/tcp  open  tcpwrapped
+19/tcp  open  tcpwrapped
+20/tcp  open  tcpwrapped
+21/tcp  open  tcpwrapped
+22/tcp  open  tcpwrapped
+23/tcp  open  tcpwrapped
+24/tcp  open  tcpwrapped
+25/tcp  open  tcpwrapped
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:26 +0300
+Nmap scan report for 140.150.31.27
+Host is up (0.10s latency).
+
+PORT    STATE SERVICE
+1/tcp   open  tcpmux
+2/tcp   open  compressnet
+3/tcp   open  compressnet
+4/tcp   open  unknown
+5/tcp   open  rje
+6/tcp   open  unknown
+7/tcp   open  echo
+8/tcp   open  unknown
+9/tcp   open  discard
+10/tcp  open  unknown
+11/tcp  open  systat
+12/tcp  open  unknown
+13/tcp  open  daytime
+14/tcp  open  unknown
+15/tcp  open  netstat
+16/tcp  open  unknown
+17/tcp  open  qotd
+18/tcp  open  msp
+19/tcp  open  chargen
+20/tcp  open  ftp-data
+21/tcp  open  ftp
+22/tcp  open  ssh
+23/tcp  open  telnet
+24/tcp  open  priv-mail
+25/tcp  open  smtp
+26/tcp  open  rsftp
+27/tcp  open  nsw-fe
+28/tcp  open  unknown
+29/tcp  open  msg-icp
+30/tcp  open  unknown
+31/tcp  open  msg-auth
+32/tcp  open  unknown
+33/tcp  open  dsp
+34/tcp  open  unknown
+35/tcp  open  priv-print
+36/tcp  open  unknown
+37/tcp  open  time
+38/tcp  open  rap
+39/tcp  open  rlp
+40/tcp  open  unknown
+41/tcp  open  graphics
+42/tcp  open  nameserver
+43/tcp  open  whois
+44/tcp  open  mpm-flags
+45/tcp  open  mpm
+46/tcp  open  mpm-snd
+47/tcp  open  ni-ftp
+48/tcp  open  auditd
+49/tcp  open  tacacs
+50/tcp  open  re-mail-ck
+51/tcp  open  la-maint
+52/tcp  open  xns-time
+53/tcp  open  domain
+54/tcp  open  xns-ch
+55/tcp  open  isi-gl
+56/tcp  open  xns-auth
+57/tcp  open  priv-term
+58/tcp  open  xns-mail
+59/tcp  open  priv-file
+60/tcp  open  unknown
+61/tcp  open  ni-mail
+62/tcp  open  acas
+63/tcp  open  via-ftp
+64/tcp  open  covia
+65/tcp  open  tacacs-ds
+66/tcp  open  sqlnet
+67/tcp  open  dhcps
+68/tcp  open  dhcpc
+69/tcp  open  tftp
+70/tcp  open  gopher
+71/tcp  open  netrjs-1
+72/tcp  open  netrjs-2
+73/tcp  open  netrjs-3
+74/tcp  open  netrjs-4
+75/tcp  open  priv-dial
+76/tcp  open  deos
+77/tcp  open  priv-rje
+78/tcp  open  vettcp
+79/tcp  open  finger
+80/tcp  open  http
+81/tcp  open  hosts2-ns
+82/tcp  open  xfer
+83/tcp  open  mit-ml-dev
+84/tcp  open  ctf
+85/tcp  open  mit-ml-dev
+86/tcp  open  mfcobol
+87/tcp  open  priv-term-l
+88/tcp  open  kerberos-sec
+89/tcp  open  su-mit-tg
+90/tcp  open  dnsix
+91/tcp  open  mit-dov
+92/tcp  open  npp
+93/tcp  open  dcp
+94/tcp  open  objcall
+95/tcp  open  supdup
+96/tcp  open  dixie
+97/tcp  open  swift-rvf
+98/tcp  open  linuxconf
+99/tcp  open  metagram
+100/tcp open  newacct
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 7.53 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:26 +0300
+Nmap scan report for 140.150.31.27
+Host is up (0.13s latency).
+
+PORT    STATE SERVICE    VERSION
+1/tcp   open  tcpwrapped
+2/tcp   open  tcpwrapped
+3/tcp   open  tcpwrapped
+4/tcp   open  tcpwrapped
+5/tcp   open  tcpwrapped
+6/tcp   open  tcpwrapped
+7/tcp   open  tcpwrapped
+8/tcp   open  tcpwrapped
+9/tcp   open  tcpwrapped
+10/tcp  open  tcpwrapped
+11/tcp  open  tcpwrapped
+12/tcp  open  tcpwrapped
+13/tcp  open  tcpwrapped
+14/tcp  open  tcpwrapped
+15/tcp  open  tcpwrapped
+16/tcp  open  tcpwrapped
+17/tcp  open  tcpwrapped
+18/tcp  open  tcpwrapped
+19/tcp  open  tcpwrapped
+20/tcp  open  tcpwrapped
+21/tcp  open  tcpwrapped
+22/tcp  open  tcpwrapped
+23/tcp  open  tcpwrapped
+24/tcp  open  tcpwrapped
+25/tcp  open  tcpwrapped
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:27 +0300
+Nmap scan report for 140.150.31.91
+Host is up (0.10s latency).
+
+PORT    STATE SERVICE
+1/tcp   open  tcpmux
+2/tcp   open  compressnet
+3/tcp   open  compressnet
+4/tcp   open  unknown
+5/tcp   open  rje
+6/tcp   open  unknown
+7/tcp   open  echo
+8/tcp   open  unknown
+9/tcp   open  discard
+10/tcp  open  unknown
+11/tcp  open  systat
+12/tcp  open  unknown
+13/tcp  open  daytime
+14/tcp  open  unknown
+15/tcp  open  netstat
+16/tcp  open  unknown
+17/tcp  open  qotd
+18/tcp  open  msp
+19/tcp  open  chargen
+20/tcp  open  ftp-data
+21/tcp  open  ftp
+22/tcp  open  ssh
+23/tcp  open  telnet
+24/tcp  open  priv-mail
+25/tcp  open  smtp
+26/tcp  open  rsftp
+27/tcp  open  nsw-fe
+28/tcp  open  unknown
+29/tcp  open  msg-icp
+30/tcp  open  unknown
+31/tcp  open  msg-auth
+32/tcp  open  unknown
+33/tcp  open  dsp
+34/tcp  open  unknown
+35/tcp  open  priv-print
+36/tcp  open  unknown
+37/tcp  open  time
+38/tcp  open  rap
+39/tcp  open  rlp
+40/tcp  open  unknown
+41/tcp  open  graphics
+42/tcp  open  nameserver
+43/tcp  open  whois
+44/tcp  open  mpm-flags
+45/tcp  open  mpm
+46/tcp  open  mpm-snd
+47/tcp  open  ni-ftp
+48/tcp  open  auditd
+49/tcp  open  tacacs
+50/tcp  open  re-mail-ck
+51/tcp  open  la-maint
+52/tcp  open  xns-time
+53/tcp  open  domain
+54/tcp  open  xns-ch
+55/tcp  open  isi-gl
+56/tcp  open  xns-auth
+57/tcp  open  priv-term
+58/tcp  open  xns-mail
+59/tcp  open  priv-file
+60/tcp  open  unknown
+61/tcp  open  ni-mail
+62/tcp  open  acas
+63/tcp  open  via-ftp
+64/tcp  open  covia
+65/tcp  open  tacacs-ds
+66/tcp  open  sqlnet
+67/tcp  open  dhcps
+68/tcp  open  dhcpc
+69/tcp  open  tftp
+70/tcp  open  gopher
+71/tcp  open  netrjs-1
+72/tcp  open  netrjs-2
+73/tcp  open  netrjs-3
+74/tcp  open  netrjs-4
+75/tcp  open  priv-dial
+76/tcp  open  deos
+77/tcp  open  priv-rje
+78/tcp  open  vettcp
+79/tcp  open  finger
+80/tcp  open  http
+81/tcp  open  hosts2-ns
+82/tcp  open  xfer
+83/tcp  open  mit-ml-dev
+84/tcp  open  ctf
+85/tcp  open  mit-ml-dev
+86/tcp  open  mfcobol
+87/tcp  open  priv-term-l
+88/tcp  open  kerberos-sec
+89/tcp  open  su-mit-tg
+90/tcp  open  dnsix
+91/tcp  open  mit-dov
+92/tcp  open  npp
+93/tcp  open  dcp
+94/tcp  open  objcall
+95/tcp  open  supdup
+96/tcp  open  dixie
+97/tcp  open  swift-rvf
+98/tcp  open  linuxconf
+99/tcp  open  metagram
+100/tcp open  newacct
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.54 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:27 +0300
+Nmap scan report for 140.150.31.91
+Host is up (0.14s latency).
+
+PORT    STATE SERVICE    VERSION
+1/tcp   open  tcpwrapped
+2/tcp   open  tcpwrapped
+3/tcp   open  tcpwrapped
+4/tcp   open  tcpwrapped
+5/tcp   open  tcpwrapped
+6/tcp   open  tcpwrapped
+7/tcp   open  tcpwrapped
+8/tcp   open  tcpwrapped
+9/tcp   open  tcpwrapped
+10/tcp  open  tcpwrapped
+11/tcp  open  tcpwrapped
+12/tcp  open  tcpwrapped
+13/tcp  open  tcpwrapped
+14/tcp  open  tcpwrapped
+15/tcp  open  tcpwrapped
+16/tcp  open  tcpwrapped
+17/tcp  open  tcpwrapped
+18/tcp  open  tcpwrapped
+19/tcp  open  tcpwrapped
+20/tcp  open  tcpwrapped
+21/tcp  open  tcpwrapped
+22/tcp  open  tcpwrapped
+23/tcp  open  tcpwrapped
+24/tcp  open  tcpwrapped
+25/tcp  open  tcpwrapped
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:27 +0300
+Nmap scan report for 8.138.226.8
+Host is up (0.046s latency).
+All 100 scanned ports on 8.138.226.8 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Cisco 3925 router (IOS 12.4) (94%), Dell PowerConnect 2708 switch (90%), Digital Loggers, Inc. power controller (firmware 1.2.7) (90%), Koukaam NETIO-230A power control device or ZyXEL SP-220E thermal printer (90%), SMC 8024L2 switch (90%), SunPower solar monitoring device (uIP stack) (90%), Dell PowerConnect 2724 switch (90%), Schrack electric meter (90%), Cisco ACE load balancer (89%), Grandstream GXP2000 VoIP phone (89%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.49 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:27 +0300
+Nmap scan report for 8.138.226.8
+Host is up (0.042s latency).
+All 100 scanned ports on 8.138.226.8 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 3.35 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:27 +0300
+Nmap scan report for 140.150.30.223
+Host is up (0.11s latency).
+
+PORT    STATE SERVICE
+1/tcp   open  tcpmux
+2/tcp   open  compressnet
+3/tcp   open  compressnet
+4/tcp   open  unknown
+5/tcp   open  rje
+6/tcp   open  unknown
+7/tcp   open  echo
+8/tcp   open  unknown
+9/tcp   open  discard
+10/tcp  open  unknown
+11/tcp  open  systat
+12/tcp  open  unknown
+13/tcp  open  daytime
+14/tcp  open  unknown
+15/tcp  open  netstat
+16/tcp  open  unknown
+17/tcp  open  qotd
+18/tcp  open  msp
+19/tcp  open  chargen
+20/tcp  open  ftp-data
+21/tcp  open  ftp
+22/tcp  open  ssh
+23/tcp  open  telnet
+24/tcp  open  priv-mail
+25/tcp  open  smtp
+26/tcp  open  rsftp
+27/tcp  open  nsw-fe
+28/tcp  open  unknown
+29/tcp  open  msg-icp
+30/tcp  open  unknown
+31/tcp  open  msg-auth
+32/tcp  open  unknown
+33/tcp  open  dsp
+34/tcp  open  unknown
+35/tcp  open  priv-print
+36/tcp  open  unknown
+37/tcp  open  time
+38/tcp  open  rap
+39/tcp  open  rlp
+40/tcp  open  unknown
+41/tcp  open  graphics
+42/tcp  open  nameserver
+43/tcp  open  whois
+44/tcp  open  mpm-flags
+45/tcp  open  mpm
+46/tcp  open  mpm-snd
+47/tcp  open  ni-ftp
+48/tcp  open  auditd
+49/tcp  open  tacacs
+50/tcp  open  re-mail-ck
+51/tcp  open  la-maint
+52/tcp  open  xns-time
+53/tcp  open  domain
+54/tcp  open  xns-ch
+55/tcp  open  isi-gl
+56/tcp  open  xns-auth
+57/tcp  open  priv-term
+58/tcp  open  xns-mail
+59/tcp  open  priv-file
+60/tcp  open  unknown
+61/tcp  open  ni-mail
+62/tcp  open  acas
+63/tcp  open  via-ftp
+64/tcp  open  covia
+65/tcp  open  tacacs-ds
+66/tcp  open  sqlnet
+67/tcp  open  dhcps
+68/tcp  open  dhcpc
+69/tcp  open  tftp
+70/tcp  open  gopher
+71/tcp  open  netrjs-1
+72/tcp  open  netrjs-2
+73/tcp  open  netrjs-3
+74/tcp  open  netrjs-4
+75/tcp  open  priv-dial
+76/tcp  open  deos
+77/tcp  open  priv-rje
+78/tcp  open  vettcp
+79/tcp  open  finger
+80/tcp  open  http
+81/tcp  open  hosts2-ns
+82/tcp  open  xfer
+83/tcp  open  mit-ml-dev
+84/tcp  open  ctf
+85/tcp  open  mit-ml-dev
+86/tcp  open  mfcobol
+87/tcp  open  priv-term-l
+88/tcp  open  kerberos-sec
+89/tcp  open  su-mit-tg
+90/tcp  open  dnsix
+91/tcp  open  mit-dov
+92/tcp  open  npp
+93/tcp  open  dcp
+94/tcp  open  objcall
+95/tcp  open  supdup
+96/tcp  open  dixie
+97/tcp  open  swift-rvf
+98/tcp  open  linuxconf
+99/tcp  open  metagram
+100/tcp open  newacct
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: specialized
+Running (JUST GUESSING): OSRAM embedded (85%)
+OS CPE: cpe:/h:osram:lightify
+Aggressive OS guesses: OSRAM Lightify ZigBee gateway (85%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.94 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:28 +0300
+Nmap scan report for 140.150.30.223
+Host is up (0.13s latency).
+
+PORT    STATE SERVICE    VERSION
+1/tcp   open  tcpwrapped
+2/tcp   open  tcpwrapped
+3/tcp   open  tcpwrapped
+4/tcp   open  tcpwrapped
+5/tcp   open  tcpwrapped
+6/tcp   open  tcpwrapped
+7/tcp   open  tcpwrapped
+8/tcp   open  tcpwrapped
+9/tcp   open  tcpwrapped
+10/tcp  open  tcpwrapped
+11/tcp  open  tcpwrapped
+12/tcp  open  tcpwrapped
+13/tcp  open  tcpwrapped
+14/tcp  open  tcpwrapped
+15/tcp  open  tcpwrapped
+16/tcp  open  tcpwrapped
+17/tcp  open  tcpwrapped
+18/tcp  open  tcpwrapped
+19/tcp  open  tcpwrapped
+20/tcp  open  tcpwrapped
+21/tcp  open  tcpwrapped
+22/tcp  open  tcpwrapped
+23/tcp  open  tcpwrapped
+24/tcp  open  tcpwrapped
+25/tcp  open  tcpwrapped
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:28 +0300
+Nmap scan report for 157.185.179.197
+Host is up (0.19s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE
+33/tcp open  dsp
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+83/tcp open  mit-ml-dev
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+92/tcp open  npp
+93/tcp open  dcp
+OS fingerprint not ideal because: Didn't receive UDP response. Please try again with -sSU
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 9.58 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:28 +0300
+Nmap scan report for 157.185.179.197
+Host is up (0.23s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+33/tcp open  http    nginx
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+83/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 26.17 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:29 +0300
+Nmap scan report for mx0b-00262c01.pphosted.com (148.163.152.163)
+Host is up (0.22s latency).
+Not shown: 99 closed tcp ports (reset)
+PORT   STATE SERVICE
+25/tcp open  smtp
+OS fingerprint not ideal because: Host distance (21 network hops) is greater than five
+No OS matches for host
+Network Distance: 21 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 8.35 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:29 +0300
+Nmap scan report for mx0b-00262c01.pphosted.com (148.163.152.163)
+Host is up (0.24s latency).
+Not shown: 99 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+25/tcp open  smtp
+| fingerprint-strings: 
+|   GenericLines: 
+|     220 mx0b-00262c01.pphosted.com ESMTP mfa-m0104822
+|     5.5.1 Command unrecognized: ""
+|     5.5.1 Command unrecognized: ""
+|   GetRequest: 
+|     220 mx0b-00262c01.pphosted.com ESMTP mfa-m0183372
+|     4.7.0 Open proxy prohibited
+|   Hello: 
+|     220 mx0b-00262c01.pphosted.com ESMTP mfa-m0218784
+|     5.5.4 Domain name required
+|   Help: 
+|     220 mx0b-00262c01.pphosted.com ESMTP mfa-m0104820
+|     5.5.1 Command unrecognized: "HELP"
+|   NULL: 
+|_    220 mx0b-00262c01.pphosted.com ESMTP mfa-m0218784
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port25-TCP:V=7.97%I=7%D=8/22%Time=68A8C517%P=i686-pc-windows-windows%r(
+SF:NULL,33,"220\x20mx0b-00262c01\.pphosted\.com\x20ESMTP\x20mfa-m0218784\r
+SF:\n")%r(Hello,53,"220\x20mx0b-00262c01\.pphosted\.com\x20ESMTP\x20mfa-m0
+SF:218784\r\n501\x205\.5\.4\x20Domain\x20name\x20required\r\n")%r(Help,5B,
+SF:"220\x20mx0b-00262c01\.pphosted\.com\x20ESMTP\x20mfa-m0104820\r\n500\x2
+SF:05\.5\.1\x20Command\x20unrecognized:\x20\"HELP\"\r\n")%r(GenericLines,7
+SF:B,"220\x20mx0b-00262c01\.pphosted\.com\x20ESMTP\x20mfa-m0104822\r\n500\
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:29 +0300
+Nmap scan report for 138.113.24.62
+Host is up (0.23s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+OS fingerprint not ideal because: Didn't receive UDP response. Please try again with -sSU
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 9.83 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:29 +0300
+Nmap scan report for 138.113.24.62
+Host is up (0.32s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 27.44 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:30 +0300
+Nmap scan report for 140.150.29.33
+Host is up (0.18s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+OS fingerprint not ideal because: Didn't receive UDP response. Please try again with -sSU
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 8.42 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:30 +0300
+Nmap scan report for 140.150.29.33
+Host is up (0.22s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 24.38 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:30 +0300
+Nmap scan report for 157.185.163.79
+Host is up (0.18s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+Device type: WAP|general purpose
+Running (JUST GUESSING): Linux 2.6.X|2.4.X (87%)
+OS CPE: cpe:/o:linux:linux_kernel:2.6.22 cpe:/o:linux:linux_kernel:2.4 cpe:/o:linux:linux_kernel:2.6.32
+Aggressive OS guesses: OpenWrt Kamikaze 7.09 (Linux 2.6.22) (87%), OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (86%), OpenWrt White Russian 0.9 (Linux 2.4.30) (86%), Linux 2.6.32 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 21 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 8.88 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:31 +0300
+Nmap scan report for 157.185.163.79
+Host is up (0.21s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 24.22 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:31 +0300
+Nmap scan report for 38.152.82.135
+Host is up (0.21s latency).
+Not shown: 51 filtered tcp ports (no-response), 48 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+Aggressive OS guesses: Linux 4.18 (89%), Linux 2.6.32 (88%), Linux 3.2 (88%), Tiandy NVR (87%), ProVision-ISR security DVR (87%), Linux 3.0 (87%), OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (86%), OpenWrt White Russian 0.9 (Linux 2.4.30) (86%), OpenWrt Kamikaze 7.09 (Linux 2.6.22) (86%), DD-WRT v24-sp2 (Linux 3.10) (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 25 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 10.01 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:31 +0300
+Nmap scan report for 38.152.82.135
+Host is up (0.31s latency).
+Not shown: 51 filtered tcp ports (no-response), 48 closed tcp ports (reset)
+PORT   STATE SERVICE    VERSION
+80/tcp open  http-proxy Squid http proxy 3.1.23
+| vulners: 
+|   cpe:/a:squid-cache:squid:3.1.23: 
+|     	FF02A46B-33EF-5995-B22B-451D42342473	10.0	https://vulners.com/githubexploit/FF02A46B-33EF-5995-B22B-451D42342473	*EXPLOIT*
+|     	A158559B-0D11-5BBE-BADD-93C4CE1BAB79	10.0	https://vulners.com/githubexploit/A158559B-0D11-5BBE-BADD-93C4CE1BAB79	*EXPLOIT*
+|     	CVE-2020-15049	9.9	https://vulners.com/cve/CVE-2020-15049
+|     	CVE-2020-11945	9.8	https://vulners.com/cve/CVE-2020-11945
+|     	CVE-2019-12526	9.8	https://vulners.com/cve/CVE-2019-12526
+|     	CVE-2019-12524	9.8	https://vulners.com/cve/CVE-2019-12524
+|     	CVE-2019-12519	9.8	https://vulners.com/cve/CVE-2019-12519
+|     	D78450DA-9723-5967-B7CC-0DE9BEE34A2E	9.3	https://vulners.com/githubexploit/D78450DA-9723-5967-B7CC-0DE9BEE34A2E	*EXPLOIT*
+|     	CVE-2025-54574	9.3	https://vulners.com/cve/CVE-2025-54574
+|     	CVE-2023-46846	9.3	https://vulners.com/cve/CVE-2023-46846
+|     	CVE-2019-12523	9.1	https://vulners.com/cve/CVE-2019-12523
+|     	CVE-2023-50269	8.6	https://vulners.com/cve/CVE-2023-50269
+|     	CVE-2023-49286	8.6	https://vulners.com/cve/CVE-2023-49286
+|     	CVE-2023-49285	8.6	https://vulners.com/cve/CVE-2023-49285
+|     	CVE-2022-41318	8.6	https://vulners.com/cve/CVE-2022-41318
+|     	CVE-2020-25097	8.6	https://vulners.com/cve/CVE-2020-25097
+|     	CVE-2020-24606	8.6	https://vulners.com/cve/CVE-2020-24606
+|     	CVE-2016-4554	8.6	https://vulners.com/cve/CVE-2016-4554
+|     	CVE-2016-4553	8.6	https://vulners.com/cve/CVE-2016-4553
+|     	CVE-2016-3947	8.2	https://vulners.com/cve/CVE-2016-3947
+|     	CVE-2024-45802	7.5	https://vulners.com/cve/CVE-2024-45802
+|     	CVE-2024-25617	7.5	https://vulners.com/cve/CVE-2024-25617
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:31 +0300
+Nmap scan report for 157.185.158.34
+Host is up (0.22s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE
+33/tcp open  dsp
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+83/tcp open  mit-ml-dev
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+92/tcp open  npp
+93/tcp open  dcp
+OS fingerprint not ideal because: Didn't receive UDP response. Please try again with -sSU
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 8.86 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:32 +0300
+Nmap scan report for 157.185.158.34
+Host is up (0.25s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+33/tcp open  http    nginx
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+83/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 25.70 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:32 +0300
+Nmap scan report for 138.113.134.102
+Host is up (0.24s latency).
+Not shown: 81 closed tcp ports (reset)
+PORT   STATE SERVICE
+61/tcp open  ni-mail
+65/tcp open  tacacs-ds
+66/tcp open  sqlnet
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+83/tcp open  mit-ml-dev
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+96/tcp open  dixie
+97/tcp open  swift-rvf
+OS fingerprint not ideal because: Didn't receive UDP response. Please try again with -sSU
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 13.58 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:32 +0300
+Nmap scan report for 138.113.134.102
+Host is up (0.29s latency).
+Not shown: 81 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+61/tcp open  http    nginx
+65/tcp open  http    nginx
+66/tcp open  http    nginx
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+83/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+96/tcp open  http    nginx
+97/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 31.67 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:33 +0300
+Nmap scan report for 123.146.62.50.host.secureserver.net (50.62.146.123)
+Host is up (0.24s latency).
+Not shown: 94 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+20/tcp closed ftp-data
+21/tcp open   ftp
+22/tcp open   ssh
+25/tcp open   smtp
+70/tcp open   gopher
+80/tcp open   http
+Device type: general purpose
+Running (JUST GUESSING): Linux 3.X|4.X (86%)
+OS CPE: cpe:/o:linux:linux_kernel:3 cpe:/o:linux:linux_kernel:4
+Aggressive OS guesses: Linux 3.2 - 4.14 (86%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 12.73 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:33 +0300
+Nmap scan report for 123.146.62.50.host.secureserver.net (50.62.146.123)
+Host is up (0.15s latency).
+Not shown: 94 filtered tcp ports (no-response)
+PORT   STATE  SERVICE  VERSION
+20/tcp closed ftp-data
+21/tcp open   ftp      Pure-FTPd
+22/tcp open   ssh      OpenSSH 8.0 (protocol 2.0)
+| vulners: 
+|   cpe:/a:openbsd:openssh:8.0: 
+|     	FF02A46B-33EF-5995-B22B-451D42342473	10.0	https://vulners.com/githubexploit/FF02A46B-33EF-5995-B22B-451D42342473	*EXPLOIT*
+|     	5E6968B4-DBD6-57FA-BF6E-D9B2219DB27A	10.0	https://vulners.com/githubexploit/5E6968B4-DBD6-57FA-BF6E-D9B2219DB27A	*EXPLOIT*
+|     	PACKETSTORM:173661	9.8	https://vulners.com/packetstorm/PACKETSTORM:173661	*EXPLOIT*
+|     	F0979183-AE88-53B4-86CF-3AF0523F3807	9.8	https://vulners.com/githubexploit/F0979183-AE88-53B4-86CF-3AF0523F3807	*EXPLOIT*
+|     	CVE-2023-38408	9.8	https://vulners.com/cve/CVE-2023-38408
+|     	B8190CDB-3EB9-5631-9828-8064A1575B23	9.8	https://vulners.com/githubexploit/B8190CDB-3EB9-5631-9828-8064A1575B23	*EXPLOIT*
+|     	8FC9C5AB-3968-5F3C-825E-E8DB5379A623	9.8	https://vulners.com/githubexploit/8FC9C5AB-3968-5F3C-825E-E8DB5379A623	*EXPLOIT*
+|     	8AD01159-548E-546E-AA87-2DE89F3927EC	9.8	https://vulners.com/githubexploit/8AD01159-548E-546E-AA87-2DE89F3927EC	*EXPLOIT*
+|     	2227729D-6700-5C8F-8930-1EEAFD4B9FF0	9.8	https://vulners.com/githubexploit/2227729D-6700-5C8F-8930-1EEAFD4B9FF0	*EXPLOIT*
+|     	0221525F-07F5-5790-912D-F4B9E2D1B587	9.8	https://vulners.com/githubexploit/0221525F-07F5-5790-912D-F4B9E2D1B587	*EXPLOIT*
+|     	DD5F7271-8C6A-54E2-AB42-334286CCC1D1	8.1	https://vulners.com/githubexploit/DD5F7271-8C6A-54E2-AB42-334286CCC1D1	*EXPLOIT*
+|     	774022BB-71DA-57C4-9B8F-E21D667DE4BC	8.1	https://vulners.com/githubexploit/774022BB-71DA-57C4-9B8F-E21D667DE4BC	*EXPLOIT*
+|     	CVE-2020-15778	7.8	https://vulners.com/cve/CVE-2020-15778
+|     	CVE-2019-16905	7.8	https://vulners.com/cve/CVE-2019-16905
+|     	C94132FD-1FA5-5342-B6EE-0DAF45EEFFE3	7.8	https://vulners.com/githubexploit/C94132FD-1FA5-5342-B6EE-0DAF45EEFFE3	*EXPLOIT*
+|     	23CC97BE-7C95-513B-9E73-298C48D74432	7.8	https://vulners.com/githubexploit/23CC97BE-7C95-513B-9E73-298C48D74432	*EXPLOIT*
+|     	10213DBE-F683-58BB-B6D3-353173626207	7.8	https://vulners.com/githubexploit/10213DBE-F683-58BB-B6D3-353173626207	*EXPLOIT*
+|     	SSV:92579	7.5	https://vulners.com/seebug/SSV:92579	*EXPLOIT*
+|     	1337DAY-ID-26576	7.5	https://vulners.com/zdt/1337DAY-ID-26576	*EXPLOIT*
+|     	CVE-2021-41617	7.0	https://vulners.com/cve/CVE-2021-41617
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:36 +0300
+Nmap scan report for i0-h0-s4302.p1-iad.cdngp.net (66.114.52.71)
+Host is up (0.21s latency).
+
+PORT    STATE SERVICE
+1/tcp   open  tcpmux
+2/tcp   open  compressnet
+3/tcp   open  compressnet
+4/tcp   open  unknown
+5/tcp   open  rje
+6/tcp   open  unknown
+7/tcp   open  echo
+8/tcp   open  unknown
+9/tcp   open  discard
+10/tcp  open  unknown
+11/tcp  open  systat
+12/tcp  open  unknown
+13/tcp  open  daytime
+14/tcp  open  unknown
+15/tcp  open  netstat
+16/tcp  open  unknown
+17/tcp  open  qotd
+18/tcp  open  msp
+19/tcp  open  chargen
+20/tcp  open  ftp-data
+21/tcp  open  ftp
+22/tcp  open  ssh
+23/tcp  open  telnet
+24/tcp  open  priv-mail
+25/tcp  open  smtp
+26/tcp  open  rsftp
+27/tcp  open  nsw-fe
+28/tcp  open  unknown
+29/tcp  open  msg-icp
+30/tcp  open  unknown
+31/tcp  open  msg-auth
+32/tcp  open  unknown
+33/tcp  open  dsp
+34/tcp  open  unknown
+35/tcp  open  priv-print
+36/tcp  open  unknown
+37/tcp  open  time
+38/tcp  open  rap
+39/tcp  open  rlp
+40/tcp  open  unknown
+41/tcp  open  graphics
+42/tcp  open  nameserver
+43/tcp  open  whois
+44/tcp  open  mpm-flags
+45/tcp  open  mpm
+46/tcp  open  mpm-snd
+47/tcp  open  ni-ftp
+48/tcp  open  auditd
+49/tcp  open  tacacs
+50/tcp  open  re-mail-ck
+51/tcp  open  la-maint
+52/tcp  open  xns-time
+53/tcp  open  domain
+54/tcp  open  xns-ch
+55/tcp  open  isi-gl
+56/tcp  open  xns-auth
+57/tcp  open  priv-term
+58/tcp  open  xns-mail
+59/tcp  open  priv-file
+60/tcp  open  unknown
+61/tcp  open  ni-mail
+62/tcp  open  acas
+63/tcp  open  via-ftp
+64/tcp  open  covia
+65/tcp  open  tacacs-ds
+66/tcp  open  sqlnet
+67/tcp  open  dhcps
+68/tcp  open  dhcpc
+69/tcp  open  tftp
+70/tcp  open  gopher
+71/tcp  open  netrjs-1
+72/tcp  open  netrjs-2
+73/tcp  open  netrjs-3
+74/tcp  open  netrjs-4
+75/tcp  open  priv-dial
+76/tcp  open  deos
+77/tcp  open  priv-rje
+78/tcp  open  vettcp
+79/tcp  open  finger
+80/tcp  open  http
+81/tcp  open  hosts2-ns
+82/tcp  open  xfer
+83/tcp  open  mit-ml-dev
+84/tcp  open  ctf
+85/tcp  open  mit-ml-dev
+86/tcp  open  mfcobol
+87/tcp  open  priv-term-l
+88/tcp  open  kerberos-sec
+89/tcp  open  su-mit-tg
+90/tcp  open  dnsix
+91/tcp  open  mit-dov
+92/tcp  open  npp
+93/tcp  open  dcp
+94/tcp  open  objcall
+95/tcp  open  supdup
+96/tcp  open  dixie
+97/tcp  open  swift-rvf
+98/tcp  open  linuxconf
+99/tcp  open  metagram
+100/tcp open  newacct
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 8.75 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:36 +0300
+Nmap scan report for i0-h0-s4302.p1-iad.cdngp.net (66.114.52.71)
+Host is up (0.25s latency).
+
+PORT    STATE SERVICE    VERSION
+1/tcp   open  tcpwrapped
+2/tcp   open  tcpwrapped
+3/tcp   open  tcpwrapped
+4/tcp   open  tcpwrapped
+5/tcp   open  tcpwrapped
+6/tcp   open  tcpwrapped
+7/tcp   open  tcpwrapped
+8/tcp   open  tcpwrapped
+9/tcp   open  tcpwrapped
+10/tcp  open  tcpwrapped
+11/tcp  open  tcpwrapped
+12/tcp  open  tcpwrapped
+13/tcp  open  tcpwrapped
+14/tcp  open  tcpwrapped
+15/tcp  open  tcpwrapped
+16/tcp  open  tcpwrapped
+17/tcp  open  tcpwrapped
+18/tcp  open  tcpwrapped
+19/tcp  open  tcpwrapped
+20/tcp  open  tcpwrapped
+21/tcp  open  tcpwrapped
+22/tcp  open  tcpwrapped
+23/tcp  open  tcpwrapped
+24/tcp  open  tcpwrapped
+25/tcp  open  tcpwrapped
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:37 +0300
+Nmap scan report for ip-96-126-121-249.cloudezapp.io (96.126.121.249)
+Host is up (0.20s latency).
+Not shown: 95 filtered tcp ports (no-response)
+PORT   STATE  SERVICE
+20/tcp closed ftp-data
+21/tcp closed ftp
+22/tcp open   ssh
+25/tcp open   smtp
+80/tcp open   http
+Device type: general purpose
+Running (JUST GUESSING): Linux 4.X (88%)
+OS CPE: cpe:/o:linux:linux_kernel:4.18
+Aggressive OS guesses: Linux 4.18 (88%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 13.10 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:37 +0300
+Nmap scan report for ip-96-126-121-249.cloudezapp.io (96.126.121.249)
+Host is up (0.13s latency).
+Not shown: 95 filtered tcp ports (no-response)
+PORT   STATE  SERVICE  VERSION
+20/tcp closed ftp-data
+21/tcp closed ftp
+22/tcp open   ssh      OpenSSH 8.9p1 Ubuntu 3ubuntu0.13 (Ubuntu Linux; protocol 2.0)
+| vulners: 
+|   cpe:/a:openbsd:openssh:8.9p1: 
+|     	PACKETSTORM:179290	10.0	https://vulners.com/packetstorm/PACKETSTORM:179290	*EXPLOIT*
+|     	FF02A46B-33EF-5995-B22B-451D42342473	10.0	https://vulners.com/githubexploit/FF02A46B-33EF-5995-B22B-451D42342473	*EXPLOIT*
+|     	95499236-C9FE-56A6-9D7D-E943A24B633A	10.0	https://vulners.com/githubexploit/95499236-C9FE-56A6-9D7D-E943A24B633A	*EXPLOIT*
+|     	5E6968B4-DBD6-57FA-BF6E-D9B2219DB27A	10.0	https://vulners.com/githubexploit/5E6968B4-DBD6-57FA-BF6E-D9B2219DB27A	*EXPLOIT*
+|     	56F97BB2-3DF6-5588-82AF-1D7B77F9AD45	10.0	https://vulners.com/githubexploit/56F97BB2-3DF6-5588-82AF-1D7B77F9AD45	*EXPLOIT*
+|     	2C119FFA-ECE0-5E14-A4A4-354A2C38071A	10.0	https://vulners.com/githubexploit/2C119FFA-ECE0-5E14-A4A4-354A2C38071A	*EXPLOIT*
+|     	PACKETSTORM:173661	9.8	https://vulners.com/packetstorm/PACKETSTORM:173661	*EXPLOIT*
+|     	F0979183-AE88-53B4-86CF-3AF0523F3807	9.8	https://vulners.com/githubexploit/F0979183-AE88-53B4-86CF-3AF0523F3807	*EXPLOIT*
+|     	CVE-2023-38408	9.8	https://vulners.com/cve/CVE-2023-38408
+|     	CVE-2023-28531	9.8	https://vulners.com/cve/CVE-2023-28531
+|     	B8190CDB-3EB9-5631-9828-8064A1575B23	9.8	https://vulners.com/githubexploit/B8190CDB-3EB9-5631-9828-8064A1575B23	*EXPLOIT*
+|     	8FC9C5AB-3968-5F3C-825E-E8DB5379A623	9.8	https://vulners.com/githubexploit/8FC9C5AB-3968-5F3C-825E-E8DB5379A623	*EXPLOIT*
+|     	8AD01159-548E-546E-AA87-2DE89F3927EC	9.8	https://vulners.com/githubexploit/8AD01159-548E-546E-AA87-2DE89F3927EC	*EXPLOIT*
+|     	33D623F7-98E0-5F75-80FA-81AA666D1340	9.8	https://vulners.com/githubexploit/33D623F7-98E0-5F75-80FA-81AA666D1340	*EXPLOIT*
+|     	2227729D-6700-5C8F-8930-1EEAFD4B9FF0	9.8	https://vulners.com/githubexploit/2227729D-6700-5C8F-8930-1EEAFD4B9FF0	*EXPLOIT*
+|     	0221525F-07F5-5790-912D-F4B9E2D1B587	9.8	https://vulners.com/githubexploit/0221525F-07F5-5790-912D-F4B9E2D1B587	*EXPLOIT*
+|     	F8981437-1287-5B69-93F1-657DFB1DCE59	9.3	https://vulners.com/githubexploit/F8981437-1287-5B69-93F1-657DFB1DCE59	*EXPLOIT*
+|     	E543E274-C20A-582A-8F8E-F8E3F381C345	9.3	https://vulners.com/githubexploit/E543E274-C20A-582A-8F8E-F8E3F381C345	*EXPLOIT*
+|     	CB2926E1-2355-5C82-A42A-D4F72F114F9B	9.3	https://vulners.com/githubexploit/CB2926E1-2355-5C82-A42A-D4F72F114F9B	*EXPLOIT*
+|     	6FD8F914-B663-533D-8866-23313FD37804	9.3	https://vulners.com/githubexploit/6FD8F914-B663-533D-8866-23313FD37804	*EXPLOIT*
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:37 +0300
+Nmap scan report for 204.224.167.72.host.secureserver.net (72.167.224.204)
+Host is up (0.25s latency).
+Not shown: 96 closed tcp ports (reset)
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+53/tcp open  domain
+80/tcp open  http
+Device type: general purpose|storage-misc|WAP|media device|switch
+Running (JUST GUESSING): Linux 4.X|2.6.X|2.4.X|3.X (92%), Synology DiskStation Manager 7.X (88%), Zgemma embedded (86%), Netgear embedded (85%)
+OS CPE: cpe:/o:linux:linux_kernel:4.18 cpe:/a:synology:diskstation_manager:7.1 cpe:/o:linux:linux_kernel:2.6.22 cpe:/o:linux:linux_kernel:4.4 cpe:/o:linux:linux_kernel:2.4 cpe:/o:linux:linux_kernel:3.18 cpe:/o:linux:linux_kernel:2.6.32 cpe:/o:linux:linux_kernel:3.18.24
+Aggressive OS guesses: Linux 4.18 (92%), Synology DiskStation Manager 7.1 (88%), OpenWrt Kamikaze 7.09 (Linux 2.6.22) (87%), Linux 4.9 (87%), Zgemma H9 TV receiver (Linux 4.4) (86%), OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (86%), OpenWrt White Russian 0.9 (Linux 2.4.30) (86%), Linux 3.18 (86%), Linux 2.6.32 (85%), Linux 3.12 - 4.10 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 26 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 9.43 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:37 +0300
+Nmap scan report for 204.224.167.72.host.secureserver.net (72.167.224.204)
+Host is up (0.27s latency).
+Not shown: 96 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 7.4 (protocol 2.0)
+| vulners: 
+|   cpe:/a:openbsd:openssh:7.4: 
+|     	FF02A46B-33EF-5995-B22B-451D42342473	10.0	https://vulners.com/githubexploit/FF02A46B-33EF-5995-B22B-451D42342473	*EXPLOIT*
+|     	A158559B-0D11-5BBE-BADD-93C4CE1BAB79	10.0	https://vulners.com/githubexploit/A158559B-0D11-5BBE-BADD-93C4CE1BAB79	*EXPLOIT*
+|     	95499236-C9FE-56A6-9D7D-E943A24B633A	10.0	https://vulners.com/githubexploit/95499236-C9FE-56A6-9D7D-E943A24B633A	*EXPLOIT*
+|     	5E6968B4-DBD6-57FA-BF6E-D9B2219DB27A	10.0	https://vulners.com/githubexploit/5E6968B4-DBD6-57FA-BF6E-D9B2219DB27A	*EXPLOIT*
+|     	2C119FFA-ECE0-5E14-A4A4-354A2C38071A	10.0	https://vulners.com/githubexploit/2C119FFA-ECE0-5E14-A4A4-354A2C38071A	*EXPLOIT*
+|     	PACKETSTORM:173661	9.8	https://vulners.com/packetstorm/PACKETSTORM:173661	*EXPLOIT*
+|     	F0979183-AE88-53B4-86CF-3AF0523F3807	9.8	https://vulners.com/githubexploit/F0979183-AE88-53B4-86CF-3AF0523F3807	*EXPLOIT*
+|     	CVE-2023-38408	9.8	https://vulners.com/cve/CVE-2023-38408
+|     	B8190CDB-3EB9-5631-9828-8064A1575B23	9.8	https://vulners.com/githubexploit/B8190CDB-3EB9-5631-9828-8064A1575B23	*EXPLOIT*
+|     	8FC9C5AB-3968-5F3C-825E-E8DB5379A623	9.8	https://vulners.com/githubexploit/8FC9C5AB-3968-5F3C-825E-E8DB5379A623	*EXPLOIT*
+|     	8AD01159-548E-546E-AA87-2DE89F3927EC	9.8	https://vulners.com/githubexploit/8AD01159-548E-546E-AA87-2DE89F3927EC	*EXPLOIT*
+|     	2227729D-6700-5C8F-8930-1EEAFD4B9FF0	9.8	https://vulners.com/githubexploit/2227729D-6700-5C8F-8930-1EEAFD4B9FF0	*EXPLOIT*
+|     	0221525F-07F5-5790-912D-F4B9E2D1B587	9.8	https://vulners.com/githubexploit/0221525F-07F5-5790-912D-F4B9E2D1B587	*EXPLOIT*
+|     	DD5F7271-8C6A-54E2-AB42-334286CCC1D1	8.1	https://vulners.com/githubexploit/DD5F7271-8C6A-54E2-AB42-334286CCC1D1	*EXPLOIT*
+|     	A801235B-9835-5BA8-B8FE-23B7FFCABD66	8.1	https://vulners.com/githubexploit/A801235B-9835-5BA8-B8FE-23B7FFCABD66	*EXPLOIT*
+|     	774022BB-71DA-57C4-9B8F-E21D667DE4BC	8.1	https://vulners.com/githubexploit/774022BB-71DA-57C4-9B8F-E21D667DE4BC	*EXPLOIT*
+|     	6E3BABC6-E1D1-558E-9748-DCB029F314E7	8.1	https://vulners.com/githubexploit/6E3BABC6-E1D1-558E-9748-DCB029F314E7	*EXPLOIT*
+|     	CVE-2020-15778	7.8	https://vulners.com/cve/CVE-2020-15778
+|     	C94132FD-1FA5-5342-B6EE-0DAF45EEFFE3	7.8	https://vulners.com/githubexploit/C94132FD-1FA5-5342-B6EE-0DAF45EEFFE3	*EXPLOIT*
+|     	23CC97BE-7C95-513B-9E73-298C48D74432	7.8	https://vulners.com/githubexploit/23CC97BE-7C95-513B-9E73-298C48D74432	*EXPLOIT*
+|     	10213DBE-F683-58BB-B6D3-353173626207	7.8	https://vulners.com/githubexploit/10213DBE-F683-58BB-B6D3-353173626207	*EXPLOIT*
+|     	SSV:92579	7.5	https://vulners.com/seebug/SSV:92579	*EXPLOIT*
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:40 +0300
+Nmap scan report for 140.150.29.39
+Host is up (0.18s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+OS fingerprint not ideal because: Didn't receive UDP response. Please try again with -sSU
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 8.25 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:40 +0300
+Nmap scan report for 140.150.29.39
+Host is up (0.21s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 23.82 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:41 +0300
+Nmap scan report for 46.235.91.98
+Host is up (0.065s latency).
+Not shown: 99 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+80/tcp open  http
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 8.56 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:41 +0300
+Nmap scan report for 46.235.91.98
+Host is up (0.033s latency).
+Not shown: 99 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+80/tcp open  http
+| fingerprint-strings: 
+|   DNSStatusRequestTCP, DNSVersionBindReqTCP, Help, RPCCheck, SSLSessionReq, X11Probe: 
+|     HTTP/1.1 400 Bad Request
+|     Connection: close
+|   FourOhFourRequest: 
+|     HTTP/1.1 301 Moved Permanently
+|     X-Frame-Options: SAMEORIGIN
+|     Content-Security-Policy: frame-ancestors 'self'
+|     X-XSS-Protection: 1; mode=block
+|     Strict-Transport-Security: max-age=15552000
+|     location: https://:443/nice%20ports%2C/Tri%6Eity.txt%2ebak
+|     Date: Fri, 22 Aug 2025 19:41:15 GMT
+|     Connection: close
+|   GetRequest, HTTPOptions, RTSPRequest: 
+|     HTTP/1.1 301 Moved Permanently
+|     X-Frame-Options: SAMEORIGIN
+|     Content-Security-Policy: frame-ancestors 'self'
+|     X-XSS-Protection: 1; mode=block
+|     Strict-Transport-Security: max-age=15552000
+|     location: https://:443/
+|     Date: Fri, 22 Aug 2025 19:41:15 GMT
+|_    Connection: close
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port80-TCP:V=7.97%I=7%D=8/22%Time=68A8C7E4%P=i686-pc-windows-windows%r(
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:41 +0300
+Nmap scan report for 167.86.148.17
+Host is up (0.074s latency).
+
+PORT    STATE    SERVICE
+1/tcp   open     tcpmux
+2/tcp   open     compressnet
+3/tcp   open     compressnet
+4/tcp   open     unknown
+5/tcp   open     rje
+6/tcp   open     unknown
+7/tcp   open     echo
+8/tcp   open     unknown
+9/tcp   open     discard
+10/tcp  open     unknown
+11/tcp  open     systat
+12/tcp  open     unknown
+13/tcp  open     daytime
+14/tcp  open     unknown
+15/tcp  open     netstat
+16/tcp  open     unknown
+17/tcp  open     qotd
+18/tcp  open     msp
+19/tcp  open     chargen
+20/tcp  open     ftp-data
+21/tcp  open     ftp
+22/tcp  filtered ssh
+23/tcp  filtered telnet
+24/tcp  open     priv-mail
+25/tcp  open     smtp
+26/tcp  open     rsftp
+27/tcp  open     nsw-fe
+28/tcp  open     unknown
+29/tcp  open     msg-icp
+30/tcp  open     unknown
+31/tcp  open     msg-auth
+32/tcp  open     unknown
+33/tcp  open     dsp
+34/tcp  open     unknown
+35/tcp  open     priv-print
+36/tcp  open     unknown
+37/tcp  open     time
+38/tcp  open     rap
+39/tcp  open     rlp
+40/tcp  open     unknown
+41/tcp  open     graphics
+42/tcp  open     nameserver
+43/tcp  open     whois
+44/tcp  open     mpm-flags
+45/tcp  open     mpm
+46/tcp  open     mpm-snd
+47/tcp  open     ni-ftp
+48/tcp  open     auditd
+49/tcp  open     tacacs
+50/tcp  open     re-mail-ck
+51/tcp  open     la-maint
+52/tcp  open     xns-time
+53/tcp  open     domain
+54/tcp  open     xns-ch
+55/tcp  open     isi-gl
+56/tcp  open     xns-auth
+57/tcp  open     priv-term
+58/tcp  open     xns-mail
+59/tcp  open     priv-file
+60/tcp  open     unknown
+61/tcp  open     ni-mail
+62/tcp  open     acas
+63/tcp  open     via-ftp
+64/tcp  open     covia
+65/tcp  open     tacacs-ds
+66/tcp  open     sqlnet
+67/tcp  open     dhcps
+68/tcp  open     dhcpc
+69/tcp  open     tftp
+70/tcp  open     gopher
+71/tcp  open     netrjs-1
+72/tcp  open     netrjs-2
+73/tcp  open     netrjs-3
+74/tcp  open     netrjs-4
+75/tcp  open     priv-dial
+76/tcp  open     deos
+77/tcp  open     priv-rje
+78/tcp  open     vettcp
+79/tcp  open     finger
+80/tcp  open     http
+81/tcp  open     hosts2-ns
+82/tcp  open     xfer
+83/tcp  open     mit-ml-dev
+84/tcp  open     ctf
+85/tcp  open     mit-ml-dev
+86/tcp  open     mfcobol
+87/tcp  open     priv-term-l
+88/tcp  open     kerberos-sec
+89/tcp  open     su-mit-tg
+90/tcp  open     dnsix
+91/tcp  open     mit-dov
+92/tcp  open     npp
+93/tcp  open     dcp
+94/tcp  open     objcall
+95/tcp  open     supdup
+96/tcp  open     dixie
+97/tcp  open     swift-rvf
+98/tcp  open     linuxconf
+99/tcp  open     metagram
+100/tcp open     newacct
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: storage-misc|general purpose|WAP|printer|load balancer
+Running (JUST GUESSING): Western Digital embedded (86%), Linux 3.X (86%), Xerox embedded (85%), Kemp embedded (85%)
+OS CPE: cpe:/o:linux:linux_kernel:3.10 cpe:/h:kemp:loadmaster_2400
+Aggressive OS guesses: Western Digital My Cloud DL4100 NAS (Linux 3.10) (86%), DD-WRT v24-sp2 (Linux 3.10) (85%), Linux 3.10 (85%), Xerox printer or Kemp LoadMaster Firmware 7.1 (Linux 3.10) (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 19 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 7.06 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:41 +0300
+Nmap scan report for 167.86.148.17
+Host is up (0.092s latency).
+
+PORT    STATE    SERVICE VERSION
+1/tcp   open     http    HikVision NVR or camera http config
+|_http-server-header: Webs
+2/tcp   open     http    HikVision NVR or camera http config
+|_http-server-header: Webs
+3/tcp   open     http    HikVision NVR or camera http config
+|_http-server-header: Webs
+4/tcp   open     http    HikVision NVR or camera http config
+|_http-server-header: Webs
+5/tcp   open     http    HikVision NVR or camera http config
+|_http-server-header: Webs
+6/tcp   open     http    HikVision NVR or camera http config
+|_http-server-header: Webs
+7/tcp   open     http    HikVision NVR or camera http config
+|_http-server-header: Webs
+8/tcp   open     http    HikVision NVR or camera http config
+|_http-server-header: Webs
+9/tcp   open     http    HikVision NVR or camera http config
+|_http-server-header: Webs
+10/tcp  open     http    HikVision NVR or camera http config
+|_http-server-header: Webs
+11/tcp  open     http    HikVision NVR or camera http config
+|_http-server-header: Webs
+12/tcp  open     http    HikVision NVR or camera http config
+|_http-server-header: Webs
+13/tcp  open     http    HikVision NVR or camera http config
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:44 +0300
+Nmap scan report for 178.81.35.204
+Host is up (0.057s latency).
+Not shown: 99 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+80/tcp open  http
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 8.05 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:44 +0300
+Nmap scan report for 178.81.35.204
+Host is up (0.030s latency).
+Not shown: 99 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    HikVision NVR or camera http config
+Service Info: Device: webcam
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 9.98 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:45 +0300
+Nmap scan report for 167.86.182.235
+Host is up (0.071s latency).
+Not shown: 99 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+80/tcp open  http
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 8.37 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:45 +0300
+Nmap scan report for 167.86.182.235
+Host is up (0.091s latency).
+Not shown: 99 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    HikVision NVR or camera http config
+Service Info: Device: webcam
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 15.42 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:45 +0300
+Nmap scan report for 178.81.33.2
+Host is up (0.062s latency).
+All 100 scanned ports on 178.81.33.2 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Asus RT-53N WAP (97%), Foundry Networks BigIron 8000 switch (IronWare 07.8.02eT53) (97%), Cisco ACE load balancer (95%), Cisco SLM2008 or HP ProCurve 1800 switch (94%), Cisco SLM2008 switch (94%), Chamberlain myQ garage door opener (93%), Cisco PIX firewall (PIX OS 6.3(5)) (93%), NetOptics iBypass switch (93%), Sensatronics E4 temperature monitor (93%), Brocade FCX-series switch (89%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 14.07 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:45 +0300
+Nmap scan report for 178.81.33.2
+Host is up (0.049s latency).
+All 100 scanned ports on 178.81.33.2 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 3.56 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:45 +0300
+Nmap scan report for 163.171.152.215
+Host is up (0.14s latency).
+Not shown: 81 closed tcp ports (reset)
+PORT   STATE SERVICE
+61/tcp open  ni-mail
+65/tcp open  tacacs-ds
+66/tcp open  sqlnet
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+83/tcp open  mit-ml-dev
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+96/tcp open  dixie
+97/tcp open  swift-rvf
+Device type: WAP|general purpose
+Running (JUST GUESSING): Linux 2.4.X|2.6.X (86%)
+OS CPE: cpe:/o:linux:linux_kernel:2.4 cpe:/o:linux:linux_kernel:2.6.22 cpe:/o:linux:linux_kernel:2.6.32 cpe:/o:linux:linux_kernel:4.18
+Aggressive OS guesses: OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (86%), OpenWrt White Russian 0.9 (Linux 2.4.30) (86%), OpenWrt Kamikaze 7.09 (Linux 2.6.22) (86%), Linux 2.6.32 (85%), Linux 4.18 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 20 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 7.24 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:45 +0300
+Nmap scan report for 163.171.152.215
+Host is up (0.13s latency).
+Not shown: 81 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+61/tcp open  http    nginx
+65/tcp open  http    nginx
+66/tcp open  http    nginx
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+83/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+96/tcp open  http    nginx
+97/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 20.11 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:46 +0300
+Nmap scan report for 163.171.152.98
+Host is up (0.10s latency).
+Not shown: 81 closed tcp ports (reset)
+PORT   STATE SERVICE
+61/tcp open  ni-mail
+65/tcp open  tacacs-ds
+66/tcp open  sqlnet
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+83/tcp open  mit-ml-dev
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+96/tcp open  dixie
+97/tcp open  swift-rvf
+Device type: WAP
+Running (JUST GUESSING): Linux 2.6.X|2.4.X (87%)
+OS CPE: cpe:/o:linux:linux_kernel:2.6.22 cpe:/o:linux:linux_kernel:2.4
+Aggressive OS guesses: OpenWrt Kamikaze 7.09 (Linux 2.6.22) (87%), OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (86%), OpenWrt White Russian 0.9 (Linux 2.4.30) (86%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 20 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 7.13 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:46 +0300
+Nmap scan report for 163.171.152.98
+Host is up (0.19s latency).
+Not shown: 81 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+61/tcp open  http    nginx
+65/tcp open  http    nginx
+66/tcp open  http    nginx
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+83/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+96/tcp open  http    nginx
+97/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 19.95 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:46 +0300
+Nmap scan report for 148.253.230.83
+Host is up (0.10s latency).
+Not shown: 81 closed tcp ports (reset)
+PORT   STATE SERVICE
+61/tcp open  ni-mail
+65/tcp open  tacacs-ds
+66/tcp open  sqlnet
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+83/tcp open  mit-ml-dev
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+96/tcp open  dixie
+97/tcp open  swift-rvf
+Device type: WAP
+Running (JUST GUESSING): Linux 2.6.X|2.4.X (87%)
+OS CPE: cpe:/o:linux:linux_kernel:2.6.22 cpe:/o:linux:linux_kernel:2.4
+Aggressive OS guesses: OpenWrt Kamikaze 7.09 (Linux 2.6.22) (87%), OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (86%), OpenWrt White Russian 0.9 (Linux 2.4.30) (86%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 20 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.42 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:46 +0300
+Nmap scan report for 148.253.230.83
+Host is up (0.11s latency).
+Not shown: 81 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+61/tcp open  http    nginx
+65/tcp open  http    nginx
+66/tcp open  http    nginx
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+83/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+96/tcp open  http    nginx
+97/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 20.56 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:47 +0300
+Nmap scan report for 148.253.230.22
+Host is up (0.098s latency).
+Not shown: 81 closed tcp ports (reset)
+PORT   STATE SERVICE
+61/tcp open  ni-mail
+65/tcp open  tacacs-ds
+66/tcp open  sqlnet
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+83/tcp open  mit-ml-dev
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+96/tcp open  dixie
+97/tcp open  swift-rvf
+Device type: WAP|general purpose
+Running (JUST GUESSING): Linux 2.6.X|2.4.X (87%)
+OS CPE: cpe:/o:linux:linux_kernel:2.6.22 cpe:/o:linux:linux_kernel:2.4 cpe:/o:linux:linux_kernel:2.6.32
+Aggressive OS guesses: OpenWrt Kamikaze 7.09 (Linux 2.6.22) (87%), OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (86%), OpenWrt White Russian 0.9 (Linux 2.4.30) (86%), Linux 2.6.32 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 20 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.91 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:47 +0300
+Nmap scan report for 148.253.230.22
+Host is up (0.11s latency).
+Not shown: 81 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+61/tcp open  http    nginx
+65/tcp open  http    nginx
+66/tcp open  http    nginx
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+83/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+96/tcp open  http    nginx
+97/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 19.32 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:47 +0300
+Nmap scan report for 163.171.152.82
+Host is up (0.11s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+OS fingerprint not ideal because: Didn't receive UDP response. Please try again with -sSU
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.82 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:47 +0300
+Nmap scan report for 163.171.152.82
+Host is up (0.16s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 20.01 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:48 +0300
+Nmap scan report for 163.171.152.215
+Host is up (0.094s latency).
+Not shown: 81 closed tcp ports (reset)
+PORT   STATE SERVICE
+61/tcp open  ni-mail
+65/tcp open  tacacs-ds
+66/tcp open  sqlnet
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+83/tcp open  mit-ml-dev
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+96/tcp open  dixie
+97/tcp open  swift-rvf
+Device type: WAP
+Running (JUST GUESSING): Linux 2.6.X|2.4.X (87%)
+OS CPE: cpe:/o:linux:linux_kernel:2.6.22 cpe:/o:linux:linux_kernel:2.4
+Aggressive OS guesses: OpenWrt Kamikaze 7.09 (Linux 2.6.22) (87%), OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (86%), OpenWrt White Russian 0.9 (Linux 2.4.30) (86%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 20 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.25 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:48 +0300
+Nmap scan report for 163.171.152.215
+Host is up (0.12s latency).
+Not shown: 81 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+61/tcp open  http    nginx
+65/tcp open  http    nginx
+66/tcp open  http    nginx
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+83/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+96/tcp open  http    nginx
+97/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 20.16 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:48 +0300
+Nmap scan report for 148.253.230.208
+Host is up (0.12s latency).
+Not shown: 81 closed tcp ports (reset)
+PORT   STATE SERVICE
+61/tcp open  ni-mail
+65/tcp open  tacacs-ds
+66/tcp open  sqlnet
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+83/tcp open  mit-ml-dev
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+96/tcp open  dixie
+97/tcp open  swift-rvf
+Device type: WAP
+Running (JUST GUESSING): Linux 2.6.X|2.4.X (87%)
+OS CPE: cpe:/o:linux:linux_kernel:2.6.22 cpe:/o:linux:linux_kernel:2.4
+Aggressive OS guesses: OpenWrt Kamikaze 7.09 (Linux 2.6.22) (87%), OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (86%), OpenWrt White Russian 0.9 (Linux 2.4.30) (86%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 20 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.55 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:48 +0300
+Nmap scan report for 148.253.230.208
+Host is up (0.13s latency).
+Not shown: 81 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+61/tcp open  http    nginx
+65/tcp open  http    nginx
+66/tcp open  http    nginx
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+83/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+96/tcp open  http    nginx
+97/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 20.82 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:48 +0300
+Nmap scan report for 163.171.207.95
+Host is up (0.11s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+Device type: WAP|general purpose
+Running (JUST GUESSING): Linux 2.6.X|2.4.X (87%)
+OS CPE: cpe:/o:linux:linux_kernel:2.6.22 cpe:/o:linux:linux_kernel:2.4 cpe:/o:linux:linux_kernel:2.6.32 cpe:/o:linux:linux_kernel:4.18
+Aggressive OS guesses: OpenWrt Kamikaze 7.09 (Linux 2.6.22) (87%), OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (86%), OpenWrt White Russian 0.9 (Linux 2.4.30) (86%), Linux 2.6.32 (85%), Linux 4.18 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 19 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 7.85 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:49 +0300
+Nmap scan report for 163.171.207.95
+Host is up (0.12s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 19.37 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:49 +0300
+Nmap scan report for 148.253.230.85
+Host is up (0.11s latency).
+Not shown: 81 closed tcp ports (reset)
+PORT   STATE SERVICE
+61/tcp open  ni-mail
+65/tcp open  tacacs-ds
+66/tcp open  sqlnet
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+83/tcp open  mit-ml-dev
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+96/tcp open  dixie
+97/tcp open  swift-rvf
+Device type: WAP
+Running (JUST GUESSING): Linux 2.6.X|2.4.X (87%)
+OS CPE: cpe:/o:linux:linux_kernel:2.6.22 cpe:/o:linux:linux_kernel:2.4
+Aggressive OS guesses: OpenWrt Kamikaze 7.09 (Linux 2.6.22) (87%), OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (86%), OpenWrt White Russian 0.9 (Linux 2.4.30) (86%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 20 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.67 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:49 +0300
+Nmap scan report for 148.253.230.85
+Host is up (0.13s latency).
+Not shown: 81 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+61/tcp open  http    nginx
+65/tcp open  http    nginx
+66/tcp open  http    nginx
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+83/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+96/tcp open  http    nginx
+97/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 20.14 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:49 +0300
+Nmap scan report for 2.89.137.61
+Host is up (0.054s latency).
+Not shown: 99 filtered tcp ports (no-response)
+PORT   STATE SERVICE
+80/tcp open  http
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 9.52 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:50 +0300
+Nmap scan report for 2.89.137.61
+Host is up (0.028s latency).
+Not shown: 99 filtered tcp ports (no-response)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    HikVision NVR or camera http config
+|_http-server-header: Webs
+Service Info: Device: webcam
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 9.94 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:50 +0300
+Nmap scan report for 141.179.41.32
+Host is up (0.053s latency).
+Not shown: 95 closed tcp ports (reset)
+PORT   STATE    SERVICE
+21/tcp open     ftp
+22/tcp filtered ssh
+23/tcp filtered telnet
+53/tcp open     domain
+80/tcp open     http
+Aggressive OS guesses: Linux 3.2 - 3.8 (92%), Linux 2.6.32 - 3.13 (91%), Linux 3.10 - 4.11 (89%), Linux 2.6.32 - 3.10 (88%), MikroTik RouterOS 6.36 - 6.48 (Linux 3.3.5) (88%), Grandstream GXV3275 video phone (88%), HP P2000 G3 NAS device (87%), D-Link DIR-842 (Linux 3.10) (87%), DD-WRT v24 or v30 (Linux 3.10) (87%), Linux 3.4 (87%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 20 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.76 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:50 +0300
+Nmap scan report for 141.179.41.32
+Host is up (0.074s latency).
+Not shown: 95 closed tcp ports (reset)
+PORT   STATE    SERVICE    VERSION
+21/tcp open     ftp        OpenBSD ftpd 6.4 (Linux port 0.17)
+22/tcp filtered ssh
+23/tcp filtered telnet
+53/tcp open     tcpwrapped
+80/tcp open     http
+| fingerprint-strings: 
+|   GetRequest, HTTPOptions: 
+|     HTTP/1.1 200 OK
+|     Content-type: text/html
+|     Content-Length: 1981
+|     X-XSS-Protection: 1; mode=block
+|     X-Content-Type-Options: nosniff
+|     X-Frame-Options: SAMEORIGIN
+|     Connection: close
+|     <!DOCTYPE html>
+|     <html>
+|     <head>
+|     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+|     <title></title>
+|     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" media="screen" />
+|     </head>
+|     <body>
+|     <div class="loadingIndicator_bk">
+|     </div>
+|     <div class="loadingIndicator_tip">
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:52 +0300
+Nmap scan report for 178.81.253.154
+Host is up (0.072s latency).
+Not shown: 94 closed tcp ports (reset)
+PORT   STATE    SERVICE
+20/tcp filtered ftp-data
+21/tcp filtered ftp
+22/tcp filtered ssh
+23/tcp filtered telnet
+53/tcp filtered domain
+80/tcp open     http
+Device type: WAP|general purpose
+Running (JUST GUESSING): Linux 2.6.X|2.4.X (87%)
+OS CPE: cpe:/o:linux:linux_kernel:2.6.22 cpe:/o:linux:linux_kernel:2.4 cpe:/o:linux:linux_kernel:2.6.32 cpe:/o:linux:linux_kernel:4.18
+Aggressive OS guesses: OpenWrt Kamikaze 7.09 (Linux 2.6.22) (87%), OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (86%), OpenWrt White Russian 0.9 (Linux 2.4.30) (86%), Linux 2.6.32 (85%), Linux 4.18 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 16 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.64 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:52 +0300
+Nmap scan report for 178.81.253.154
+Host is up (0.082s latency).
+Not shown: 94 closed tcp ports (reset)
+PORT   STATE    SERVICE  VERSION
+20/tcp filtered ftp-data
+21/tcp filtered ftp
+22/tcp filtered ssh
+23/tcp filtered telnet
+53/tcp filtered domain
+80/tcp open     http     HikVision NVR or camera http config
+Service Info: Device: webcam
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 9.32 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:53 +0300
+Nmap scan report for 167.100.255.115
+Host is up (0.056s latency).
+Not shown: 97 closed tcp ports (reset)
+PORT   STATE    SERVICE
+22/tcp filtered ssh
+23/tcp filtered telnet
+80/tcp open     http
+Device type: general purpose|storage-misc|media device|WAP|switch
+Running (JUST GUESSING): Linux 4.X|2.6.X|2.4.X|3.X (88%), Synology DiskStation Manager 7.X (88%), Zgemma embedded (87%), Netgear embedded (85%)
+OS CPE: cpe:/o:linux:linux_kernel:4.18 cpe:/a:synology:diskstation_manager:7.1 cpe:/o:linux:linux_kernel:4.4 cpe:/o:linux:linux_kernel:2.6.22 cpe:/o:linux:linux_kernel:2.4 cpe:/o:linux:linux_kernel:3.18 cpe:/o:linux:linux_kernel:2.6.32 cpe:/o:linux:linux_kernel:3.18.24
+Aggressive OS guesses: Linux 4.18 (88%), Synology DiskStation Manager 7.1 (88%), Zgemma H9 TV receiver (Linux 4.4) (87%), OpenWrt Kamikaze 7.09 (Linux 2.6.22) (87%), Linux 4.9 (87%), OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (86%), OpenWrt White Russian 0.9 (Linux 2.4.30) (86%), Linux 3.18 (86%), Linux 2.6.32 (85%), Linux 3.12 - 4.10 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 19 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.46 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:53 +0300
+Nmap scan report for 167.100.255.115
+Host is up (0.10s latency).
+Not shown: 97 closed tcp ports (reset)
+PORT   STATE    SERVICE VERSION
+22/tcp filtered ssh
+23/tcp filtered telnet
+80/tcp open     http    HikVision NVR or camera http config
+|_http-server-header: Webs
+Service Info: Device: webcam
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 10.32 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:53 +0300
+Nmap scan report for 178.80.241.116
+Host is up (0.046s latency).
+Not shown: 94 closed tcp ports (reset)
+PORT   STATE    SERVICE
+20/tcp filtered ftp-data
+21/tcp filtered ftp
+22/tcp filtered ssh
+23/tcp filtered telnet
+53/tcp filtered domain
+80/tcp open     http
+Device type: general purpose|storage-misc|media device|WAP|switch
+Running (JUST GUESSING): Linux 4.X|2.4.X|2.6.X|3.X (88%), Synology DiskStation Manager 7.X (87%), Zgemma embedded (86%), Netgear embedded (85%)
+OS CPE: cpe:/o:linux:linux_kernel:4.18 cpe:/a:synology:diskstation_manager:7.1 cpe:/o:linux:linux_kernel:4.4 cpe:/o:linux:linux_kernel:2.4 cpe:/o:linux:linux_kernel:2.6.22 cpe:/o:linux:linux_kernel:3.18 cpe:/o:linux:linux_kernel:2.6.32 cpe:/o:linux:linux_kernel:3.18.24
+Aggressive OS guesses: Linux 4.18 (88%), Linux 4.9 (88%), Synology DiskStation Manager 7.1 (87%), Zgemma H9 TV receiver (Linux 4.4) (86%), OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (86%), OpenWrt White Russian 0.9 (Linux 2.4.30) (86%), OpenWrt Kamikaze 7.09 (Linux 2.6.22) (86%), Linux 3.18 (86%), Linux 2.6.32 (85%), Linux 3.12 - 4.10 (85%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 16 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 6.17 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:53 +0300
+Nmap scan report for 178.80.241.116
+Host is up (0.075s latency).
+Not shown: 94 closed tcp ports (reset)
+PORT   STATE    SERVICE  VERSION
+20/tcp filtered ftp-data
+21/tcp filtered ftp
+22/tcp filtered ssh
+23/tcp filtered telnet
+53/tcp filtered domain
+80/tcp open     http     HikVision NVR or camera http config
+|_http-server-header: Webs
+Service Info: Device: webcam
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 9.27 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:53 +0300
+Nmap scan report for 178.81.240.2
+Host is up (0.049s latency).
+Not shown: 94 closed tcp ports (reset)
+PORT   STATE    SERVICE
+20/tcp filtered ftp-data
+21/tcp filtered ftp
+22/tcp filtered ssh
+23/tcp filtered telnet
+53/tcp filtered domain
+80/tcp filtered http
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Aggressive OS guesses: Linux 2.6.32 (97%), SonicWALL Aventail EX-1500 SSL VPN appliance (97%), Samsung OfficeServ 7100 VoIP adapter (94%), Linux 2.6.9 - 2.6.18 (94%), Peplink Balance 380 router (94%), Linux 2.6.18 (93%), OpenWrt Chaos Calmer 15.05 (Linux 3.18) (93%), Linux 3.10 - 4.11 (93%), Linux 4.4 (93%), Yealink SIP-T22P VoIP phone (93%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 17 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 4.91 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:53 +0300
+Nmap scan report for 178.81.240.2
+Host is up (0.10s latency).
+Not shown: 94 closed tcp ports (reset)
+PORT   STATE    SERVICE  VERSION
+20/tcp filtered ftp-data
+21/tcp filtered ftp
+22/tcp filtered ssh
+23/tcp filtered telnet
+53/tcp filtered domain
+80/tcp filtered http
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 2.50 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:53 +0300
+Nmap scan report for 145.82.48.170
+Host is up (0.067s latency).
+All 100 scanned ports on 145.82.48.170 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+Device type: power-device|firewall|WAP|router|print server|general purpose
+Running (JUST GUESSING): APC embedded (96%), Cisco ASA 9.X (96%), Cisco embedded (96%), Synology embedded (96%), HP embedded (93%), D-Link embedded (89%), Microsoft Windows 2000|2003 (87%)
+OS CPE: cpe:/o:cisco:asa:9.2 cpe:/h:synology:rt1900ac cpe:/h:hp:2101nw cpe:/h:dlink:di-524 cpe:/o:microsoft:windows_2000::sp4 cpe:/o:microsoft:windows_server_2003::sp2
+Aggressive OS guesses: APC Network Management Card 3 (96%), Cisco Adaptive Security Appliance (ASA 9.2) (96%), Cisco Aironet 3800-series WAP (96%), Synology RT1900ac router (96%), HP 2101nw wireless print server (93%), D-Link DI-524 wireless broadband router (89%), Microsoft Windows 2000 SP4 (87%), Microsoft Windows Server 2003 SP2 (87%)
+No exact OS matches for host (test conditions non-ideal).
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 8.36 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:53 +0300
+Nmap scan report for 145.82.48.170
+Host is up (0.049s latency).
+All 100 scanned ports on 145.82.48.170 are in ignored states.
+Not shown: 100 filtered tcp ports (no-response)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 3.54 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:53 +0300
+Nmap scan report for 157.185.190.66
+Host is up (0.17s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+OS fingerprint not ideal because: Didn't receive UDP response. Please try again with -sSU
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 7.63 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:54 +0300
+Nmap scan report for 157.185.190.66
+Host is up (0.20s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 21.43 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:54 +0300
+Nmap scan report for 157.185.190.19
+Host is up (0.14s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+OS fingerprint not ideal because: Didn't receive UDP response. Please try again with -sSU
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 7.45 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:54 +0300
+Nmap scan report for 157.185.190.19
+Host is up (0.17s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 21.25 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:54 +0300
+Nmap scan report for 157.185.190.71
+Host is up (0.15s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+OS fingerprint not ideal because: Didn't receive UDP response. Please try again with -sSU
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 7.48 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:54 +0300
+Nmap scan report for 157.185.190.71
+Host is up (0.16s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 20.34 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:55 +0300
+Nmap scan report for 157.185.190.19
+Host is up (0.16s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+OS fingerprint not ideal because: Didn't receive UDP response. Please try again with -sSU
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 7.43 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:55 +0300
+Nmap scan report for 157.185.190.19
+Host is up (0.16s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 20.90 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:55 +0300
+Nmap scan report for 157.185.190.78
+Host is up (0.13s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE
+33/tcp open  dsp
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+83/tcp open  mit-ml-dev
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+92/tcp open  npp
+93/tcp open  dcp
+OS fingerprint not ideal because: Didn't receive UDP response. Please try again with -sSU
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 7.15 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:55 +0300
+Nmap scan report for 157.185.190.78
+Host is up (0.20s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+33/tcp open  http    nginx
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+83/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 21.55 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:56 +0300
+Nmap scan report for 157.185.190.22
+Host is up (0.15s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+OS fingerprint not ideal because: Didn't receive UDP response. Please try again with -sSU
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 7.75 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:56 +0300
+Nmap scan report for 157.185.190.22
+Host is up (0.16s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 22.30 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:56 +0300
+Nmap scan report for 157.185.190.21
+Host is up (0.14s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE
+33/tcp open  dsp
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+83/tcp open  mit-ml-dev
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+92/tcp open  npp
+93/tcp open  dcp
+OS fingerprint not ideal because: Didn't receive UDP response. Please try again with -sSU
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 7.43 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:56 +0300
+Nmap scan report for 157.185.190.21
+Host is up (0.15s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+33/tcp open  http    nginx
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+83/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 21.11 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:57 +0300
+Nmap scan report for 157.185.190.8
+Host is up (0.15s latency).
+Not shown: 90 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+92/tcp open  npp
+98/tcp open  linuxconf
+OS fingerprint not ideal because: Didn't receive UDP response. Please try again with -sSU
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 8.47 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:57 +0300
+Nmap scan report for 157.185.190.8
+Host is up (0.15s latency).
+Not shown: 90 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+92/tcp open  http    nginx
+98/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 20.60 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:57 +0300
+Nmap scan report for 157.185.190.72
+Host is up (0.15s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+OS fingerprint not ideal because: Didn't receive UDP response. Please try again with -sSU
+No OS matches for host
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 7.48 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-22 22:57 +0300
+Nmap scan report for 157.185.190.72
+Host is up (0.15s latency).
+Not shown: 87 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 21.73 seconds
+
+====================================================================================================
+Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-23 17:54 +0300
+Nmap scan report for 163.171.152.215
+Host is up (0.13s latency).
+Not shown: 81 closed tcp ports (reset)
+PORT   STATE SERVICE
+61/tcp open  ni-mail
+65/tcp open  tacacs-ds
+66/tcp open  sqlnet
+80/tcp open  http
+81/tcp open  hosts2-ns
+82/tcp open  xfer
+83/tcp open  mit-ml-dev
+84/tcp open  ctf
+85/tcp open  mit-ml-dev
+86/tcp open  mfcobol
+88/tcp open  kerberos-sec
+89/tcp open  su-mit-tg
+90/tcp open  dnsix
+91/tcp open  mit-dov
+92/tcp open  npp
+93/tcp open  dcp
+94/tcp open  objcall
+96/tcp open  dixie
+97/tcp open  swift-rvf
+Device type: WAP
+Running (JUST GUESSING): Linux 2.6.X|2.4.X (87%)
+OS CPE: cpe:/o:linux:linux_kernel:2.6.22 cpe:/o:linux:linux_kernel:2.4
+Aggressive OS guesses: OpenWrt Kamikaze 7.09 (Linux 2.6.22) (87%), OpenWrt 0.9 - 7.09 (Linux 2.4.30 - 2.4.34) (86%), OpenWrt White Russian 0.9 (Linux 2.4.30) (86%)
+No exact OS matches for host (test conditions non-ideal).
+Network Distance: 20 hops
+
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 7.25 seconds
+
+ Starting Nmap 7.97 ( https://nmap.org ) at 2025-08-23 17:54 +0300
+Nmap scan report for 163.171.152.215
+Host is up (0.11s latency).
+Not shown: 81 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+61/tcp open  http    nginx
+65/tcp open  http    nginx
+66/tcp open  http    nginx
+80/tcp open  http    nginx
+81/tcp open  http    nginx
+82/tcp open  http    nginx
+83/tcp open  http    nginx
+84/tcp open  http    nginx
+85/tcp open  http    nginx
+86/tcp open  http    nginx
+88/tcp open  http    nginx
+89/tcp open  http    nginx
+90/tcp open  http    nginx
+91/tcp open  http    nginx
+92/tcp open  http    nginx
+93/tcp open  http    nginx
+94/tcp open  http    nginx
+96/tcp open  http    nginx
+97/tcp open  http    nginx
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 20.69 seconds
+
+====================================================================================================
