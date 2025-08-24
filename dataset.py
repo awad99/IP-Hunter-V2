@@ -19,14 +19,6 @@ def parse_network_scan_data(file_content):
                 current_ip = ip_match.group(1)
                 results[current_ip] = init_ip_record()
 
-        # Location / assignment info
-        elif current_ip and line.startswith("City:"):
-            results[current_ip]["city"] = line.split(":", 1)[1].strip()
-        elif current_ip and line.startswith("Country:"):
-            results[current_ip]["country"] = line.split(":", 1)[1].strip()
-        elif current_ip and line.startswith("Assignment:"):
-            results[current_ip]["assignment"] = line.split(":", 1)[1].strip()
-
         # Nmap IP block
         elif line.startswith("Nmap scan report for"):
             ip_match = re.search(r"(\d+\.\d+\.\d+\.\d+)", line)
@@ -87,45 +79,6 @@ def parse_network_scan_data(file_content):
     return results
 
 
-def init_ip_record():
-    return {
-        "city": "",
-        "country": "",
-        "assignment": "",
-        "ports": [],
-        "os_guesses": [],
-        "vulnerabilities": [],
-        "open_port_count": 0,
-        "filtered_port_count": 0,
-        "closed_port_count": 0,
-        "tcpwrapped_count": 0,
-        "exploit_risk_score": 0
-    }
-
-
-def calculate_risk_score(data):
-    risk = data["open_port_count"] * 2
-    vuln_services = ["ssh", "ftp", "telnet", "smtp", "http", "mysql", "vnc", "rdp"]
-
-    for port in data["ports"]:
-        if port["status"] == "open" and any(svc in port["service"].lower() for svc in vuln_services):
-            risk += 3
-
-    risk += len(data["vulnerabilities"]) * 5
-
-    for guess in data["os_guesses"]:
-        if any(old in guess.lower() for old in ["windows 2000", "windows 2003", "linux 2.4", "linux 2.6"]):
-            risk += 10
-
-    if data["open_port_count"] > 50:
-        risk += 20
-
-    if data["tcpwrapped_count"] > 10:
-        risk -= 5
-
-    return max(0, risk)
-
-
 def create_csv_for_ml(results, output_file="exploit_analysis.csv"):
     csv_data = []
 
@@ -137,38 +90,44 @@ def create_csv_for_ml(results, output_file="exploit_analysis.csv"):
         "remote_access_ports": ["23", "3389", "5900"]
     }
 
+    # Predefined OS keywords for one-hot encoding
+    os_keywords = ["linux", "windows", "oracle", "qemu", "virtualbox"]
+    # Predefined service keywords for one-hot encoding
+    service_keywords = ["nginx", "ssh", "smtp", "ftp", "http", "mysql", "postgres"]
+
     for ip, data in results.items():
         base = {
             "ip": ip,
-            "city": data["city"],
-            "country": data["country"],
-            "assignment": data["assignment"],
             "open_port_count": data["open_port_count"],
             "filtered_port_count": data["filtered_port_count"],
             "closed_port_count": data["closed_port_count"],
             "tcpwrapped_count": data["tcpwrapped_count"],
             "total_vulnerabilities": len(data["vulnerabilities"]),
             "exploit_risk_score": data["exploit_risk_score"],
-            "os_info": "; ".join(data["os_guesses"][:3]),
-            "has_web_service": 0,
-            "has_ssh": 0,
-            "has_database": 0,
             "has_high_severity_vuln": 0,
             "has_exploit_available": 0,
-            "geographic_risk": 1 if any(c in data["country"] for c in ["CN", "RU", "KP", "IR"]) else 0,
+            "geographic_risk": 1 if any(c in data.get("country", "") for c in ["CN", "RU", "KP", "IR"]) else 0,
         }
+
+        # Initialize OS keyword flags
+        os_info_str = "; ".join(data["os_guesses"][:3]).lower()
+        for key in os_keywords:
+            base[f"os_{key}"] = 1 if key in os_info_str else 0
+
+        # Initialize service keyword flags
+        services_concat = " ".join(p["service"].lower() for p in data["ports"])
+        for key in service_keywords:
+            base[f"svc_{key}"] = 1 if key in services_concat else 0
+
+        # Vuln severity / exploit availability flags
+        if any("10.0" in v or "9." in v for v in data["vulnerabilities"]):
+            base["has_high_severity_vuln"] = 1
+        if any("EXPLOIT" in v.upper() for v in data["vulnerabilities"]):
+            base["has_exploit_available"] = 1
 
         # Initialize port category counts
         for cat in common_ports:
             base[f"{cat}_open"] = 0
-
-        # Service + vuln flags
-        services_concat = " ".join(p["service"].lower() for p in data["ports"])
-        if any(x in services_concat for x in ["http", "nginx", "apache"]): base["has_web_service"] = 1
-        if "ssh" in services_concat: base["has_ssh"] = 1
-        if any(db in services_concat for db in ["mysql", "postgres", "mongo"]): base["has_database"] = 1
-        if any("10.0" in v or "9." in v for v in data["vulnerabilities"]): base["has_high_severity_vuln"] = 1
-        if any("EXPLOIT" in v.upper() for v in data["vulnerabilities"]): base["has_exploit_available"] = 1
 
         # Count open ports by category
         for p in data["ports"]:
@@ -177,14 +136,13 @@ def create_csv_for_ml(results, output_file="exploit_analysis.csv"):
                     if p["port"] in ports:
                         base[f"{cat}_open"] += 1
 
-        # Port-level records
+        # Per-port records
         if data["ports"]:
             for p in data["ports"]:
                 row = base.copy()
                 row.update({
                     "port": p["port"],
                     "port_status": p["status"],
-                    "service": p["service"],
                     "is_open": 1 if p["status"] == "open" else 0,
                     "is_common_vulnerable_port": 1 if p["port"] in ["21", "23", "80", "135", "139", "445"] else 0,
                     "exploit_label": base["has_exploit_available"]
@@ -195,7 +153,6 @@ def create_csv_for_ml(results, output_file="exploit_analysis.csv"):
             row.update({
                 "port": "None",
                 "port_status": "None",
-                "service": "None",
                 "is_open": 0,
                 "is_common_vulnerable_port": 0,
                 "exploit_label": base["has_exploit_available"]
@@ -204,21 +161,40 @@ def create_csv_for_ml(results, output_file="exploit_analysis.csv"):
 
     df = pd.DataFrame(csv_data)
 
-    # Enforce consistent column order
-    ordered_cols = [c for c in [
-        "ip", "city", "country", "assignment",
-        "open_port_count", "filtered_port_count", "closed_port_count", "tcpwrapped_count",
-        "total_vulnerabilities", "exploit_risk_score", "os_info",
-        "http_ports_open", "ssh_ftp_ports_open", "mail_ports_open", "database_ports_open", "remote_access_ports_open",
-        "has_web_service", "has_ssh", "has_database",
-        "has_high_severity_vuln", "has_exploit_available", "geographic_risk",
-        "port", "port_status", "service", "is_open", "is_common_vulnerable_port",
-        "exploit_label"
-    ] if c in df.columns]
-    df = df[ordered_cols]
+    # Remove non-numeric columns ('ip' is usually dropped or encoded separately)
+    # If you need IP in model, map it to integer using hash or simple indexing
+    df.drop(columns=["ip"], inplace=True, errors="ignore")
+
+    # Sort dataset for readability (not needed for ML)
+    df.sort_values(by=["exploit_risk_score", "open_port_count"], ascending=[False, False], inplace=True)
+
     df.to_csv(output_file, index=False)
     return df
 
+def init_ip_record():
+    """Initialize a new IP record with default values."""
+    return {
+        "ports": [],
+        "open_port_count": 0,
+        "filtered_port_count": 0,
+        "closed_port_count": 0,
+        "tcpwrapped_count": 0,
+        "os_guesses": [],
+        "vulnerabilities": [],
+        "country": "",        # placeholder if you later want to set this
+        "exploit_risk_score": 0
+    }
+
+def calculate_risk_score(data):
+    """Calculate a simple exploit risk score based on open ports and vulnerabilities."""
+    score = 0
+    score += data["open_port_count"] * 2
+    score += len(data["vulnerabilities"]) * 5
+    if any("10.0" in v or "9." in v for v in data["vulnerabilities"]):
+        score += 10  # extra weight for high severity vulns
+    if any("EXPLOIT" in v.upper() for v in data["vulnerabilities"]):
+        score += 20  # extra weight if an exploit is available
+    return score
 
 if __name__ == "__main__":
     with open("output.txt", "r", encoding="utf-8") as f:
