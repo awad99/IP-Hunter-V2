@@ -45,8 +45,8 @@ def typewriter(msg):
 typewriter(msg)
 
 print(yellow+"=" * 50)
-print(light_purp + "Made it By Omar-KL")
-print(light_purp + "Instagram: @1_k1e")
+print(light_purp + "Made it By Omar-KL And add ML By Awadh")
+print(light_purp + "Instagram: @1_k1e And @i3.kv")
 print(light_purp + "Youtube: https://www.youtube.com/@magician-teq")
 print(light_purp + "Don't use it for Illegal Purposes.. ")
 print(yellow+"=" * 50)
