@@ -1,95 +1,103 @@
+# train.py
 import csv
 import numpy as np
 from sklearn import preprocessing, linear_model
+from sklearn.multiclass import OneVsRestClassifier
+import joblib
 
-# Containers
+features, exploit_labels = [], []
 ports, services, oss = [], [], []
-features, y = [], []
 
-# Read the CSV generated earlier
+# Load CSV
 with open("info.csv", "r", encoding="utf-8") as f:
-    reader = csv.reader(f)
-    header = next(reader)
-
+    reader = csv.DictReader(f)
     for row in reader:
-        # Skip rows that don't have proper numeric data
-        if not row[4].isdigit():
+        if not row["exploit_label"]:
             continue
-
-        # --- Numeric feature extraction ---
-        open_port_count = int(row[4])
-        filtered_port_count = int(row[5])
-        closed_port_count = int(row[6])
-        tcpwrapped_count = int(row[7])
-        total_vulnerabilities = int(row[8])
-        exploit_risk_score = int(row[9]) if row[9].isdigit() else 0
-        os_info = row[10] if row[10] else "unknown"
-        http_ports_open = int(row[11])
-        ssh_ftp_ports_open = int(row[12])
-        mail_ports_open = int(row[13])
-        database_ports_open = int(row[14])
-        remote_access_ports_open = int(row[15])
-        has_web_service = int(row[16])
-        has_ssh = int(row[17])
-        has_database = int(row[18])
-        has_high_severity_vuln = int(row[19])
-        has_exploit_available = int(row[20])
-        geographic_risk = int(row[21]) if row[21].isdigit() else 0
-
-        # --- Categorical fields ---
-        port = row[22] if row[22] else "none"
-        service = row[24] if row[24] else "none"
-        is_open = int(row[25])
-        is_common_vulnerable_port = int(row[26])
+        feat = [
+            int(row["open_port_count"]),
+            int(row["filtered_port_count"]),
+            int(row["closed_port_count"]),
+            int(row["tcpwrapped_count"]),
+            int(row["total_vulnerabilities"]),
+            int(row["exploit_risk_score"]),
+            int(row["http_ports_open"]),
+            int(row["ssh_ftp_ports_open"]),
+            int(row["mail_ports_open"]),
+            int(row["database_ports_open"]),
+            int(row["remote_access_ports_open"]),
+            int(row["has_high_severity_vuln"]),
+            int(row["geographic_risk"]),
+            int(row["is_open"]),
+            int(row["is_common_vulnerable_port"]),
+        ]
+        port = row["port"] or "none"
+        service = row["port_status"] or "none"
+        os_info = "linux" if row["os_linux"]=="1" else "windows" if row["os_windows"]=="1" else "unknown"
 
         ports.append(port)
         services.append(service)
         oss.append(os_info)
+        features.append(feat)
+        exploit_labels.append(row["exploit_label"])
 
-        # Target label: 1 if exploit available, else 0
-        y.append(has_exploit_available)
+# Encode categorical features
+port_enc = preprocessing.LabelEncoder().fit(ports)
+svc_enc = preprocessing.LabelEncoder().fit(services)
+os_enc = preprocessing.LabelEncoder().fit(oss)
 
-        # Build feature vector (numeric only for now)
-        features.append([
-            open_port_count, filtered_port_count, closed_port_count,
-            tcpwrapped_count, total_vulnerabilities, exploit_risk_score,
-            http_ports_open, ssh_ftp_ports_open, mail_ports_open,
-            database_ports_open, remote_access_ports_open,
-            has_web_service, has_ssh, has_database,
-            has_high_severity_vuln, geographic_risk,
-            is_open, is_common_vulnerable_port
-        ])
-
-# --- Encode categorical fields ---
-port_encoder = preprocessing.LabelEncoder()
-service_encoder = preprocessing.LabelEncoder()
-os_encoder = preprocessing.LabelEncoder()
-
-ports_encoded = port_encoder.fit_transform(ports)
-services_encoded = service_encoder.fit_transform(services)
-oss_encoded = os_encoder.fit_transform(oss)
-
-# Append categorical encodings to each feature row
 for i in range(len(features)):
-    features[i].append(ports_encoded[i])
-    features[i].append(services_encoded[i])
-    features[i].append(oss_encoded[i])
+    features[i].append(port_enc.transform([ports[i]])[0])
+    features[i].append(svc_enc.transform([services[i]])[0])
+    features[i].append(os_enc.transform([oss[i]])[0])
 
-# Convert to numpy arrays
 X = np.array(features, dtype=float)
-y = np.array(y, dtype=int)  # must be int for bincount and logistic regression
+y = np.array(exploit_labels)
+label_enc = preprocessing.LabelEncoder()
+y_encoded = label_enc.fit_transform(y)
 
-print("Unique labels in y:", np.unique(y))
-print("Label distribution:", np.bincount(y))
-
-# Train logistic regression
-logr = linear_model.LogisticRegression(
-    max_iter=1000,
-    class_weight='balanced',  # handles class imbalance automatically
+# Use OneVsRestClassifier to avoid multi_class deprecation warning
+clf = OneVsRestClassifier(
+    linear_model.LogisticRegression(max_iter=1000, class_weight="balanced", solver="liblinear")
 )
-logr.fit(X, y)
+clf.fit(X, y_encoded)
 
-# Test prediction on first row
-example = X[0].reshape(1, -1)
-prediction = logr.predict(example)
-print("Prediction for first row (1 = exploit likely):", prediction[0])
+# Save model and encoders
+joblib.dump(clf, "exploit_model.pkl")
+joblib.dump(port_enc, "port_enc.pkl")
+joblib.dump(svc_enc, "svc_enc.pkl")
+joblib.dump(os_enc, "os_enc.pkl")
+joblib.dump(label_enc, "label_enc.pkl")
+
+# Prediction function
+def predict_best_exploit(scan_row):
+    feat = [
+        int(scan_row.get("open_port_count", 0)),
+        int(scan_row.get("filtered_port_count", 0)),
+        int(scan_row.get("closed_port_count", 0)),
+        int(scan_row.get("tcpwrapped_count", 0)),
+        int(scan_row.get("total_vulnerabilities", 0)),
+        int(scan_row.get("exploit_risk_score", 0)),
+        int(scan_row.get("http_ports_open", 0)),
+        int(scan_row.get("ssh_ftp_ports_open", 0)),
+        int(scan_row.get("mail_ports_open", 0)),
+        int(scan_row.get("database_ports_open", 0)),
+        int(scan_row.get("remote_access_ports_open", 0)),
+        int(scan_row.get("has_high_severity_vuln", 0)),
+        int(scan_row.get("geographic_risk", 0)),
+        int(scan_row.get("is_open", 1)),
+        int(scan_row.get("is_common_vulnerable_port", 0)),
+    ]
+
+    port_str = scan_row.get("port", "none")
+    service_str = scan_row.get("port_status", "none")
+    os_str = "linux" if scan_row.get("os_linux")=="1" else "windows" if scan_row.get("os_windows")=="1" else "unknown"
+
+    feat.append(port_enc.transform([port_str])[0])
+    feat.append(svc_enc.transform([service_str])[0])
+    feat.append(os_enc.transform([os_str])[0])
+
+    X_new = np.array([feat], dtype=float)
+    pred_class = clf.predict(X_new)[0]
+    best_exploit = label_enc.inverse_transform([pred_class])[0]
+    return best_exploit
