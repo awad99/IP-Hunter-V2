@@ -5,6 +5,8 @@ import sys
 from colored import fg,bg
 import time
 import ipinfo
+import joblib
+from train import predict_best_exploit
 
 white = fg(15)
 aqua = fg(14)
@@ -17,20 +19,20 @@ red = fg(1)
 light_purp = fg(93)
 black = fg(16)
 
-msg = (light_purp+"""
-  _____   _____                                      
- |_   _| |  __ \                                     
-   | |   | |__) |                                    
-   | |   |  ___/                                     
-  _| |_  | |                                         
- |_____| |_|                                         
-          _    _                   _                 
-         | |  | |                 | |                
-         | |__| |  _   _   _ __   | |_    ___   _ __ 
+msg = r"""
+  _____   _____
+ |_   _| |  __ \
+   | |   | |__) |
+   | |   |  ___/
+  _| |_  | |
+ |_____| |_|
+          _    _                   _
+         | |  | |                 | |
+         | |__| |  _   _   _ __   | |_    ___   _ __
          |  __  | | | | | | '_ \  | __|  / _ \ | '__|
-         | |  | | | |_| | | | | | | |_  |  __/ | |   
-         |_|  |_|  \__,_| |_| |_|  \__|  \___| |_|                                                            
-""")
+         | |  | | | |_| | | | | | | |_  |  __/ | |
+         |_|  |_|  \__,_| |_| |_|  \__|  \___| |_|
+"""
 
 def typewriter(msg):
     for chart in msg:
@@ -123,49 +125,174 @@ if choice == "1":
         
 elif choice == "2":
     try:
+        
+        def parse_nmap_output(ip, nmap_output, ports_list):
+
+                # Default values
+                scan_row = {
+                    "open_port_count": 0,
+                    "filtered_port_count": 0,
+                    "closed_port_count": 0,
+                    "tcpwrapped_count": 0,
+                    "total_vulnerabilities": 0,
+                    "exploit_risk_score": 0,
+                    "has_high_severity_vuln": 0,
+                    "geographic_risk": 0,
+                    "http_ports_open": 0,
+                    "ssh_ftp_ports_open": 0,
+                    "mail_ports_open": 0,
+                    "database_ports_open": 0,
+                    "remote_access_ports_open": 0,
+                    "is_open": 1,
+                    "is_common_vulnerable_port": 0,
+                    "port": str(ports_list[0]),
+                    "port_status": "open",
+                    "os_linux": "0",
+                    "os_windows": "0",
+                }
+
+                lines = nmap_output.splitlines()
+                for line in lines:
+                    if "/tcp" in line:
+                        parts = line.split()
+                        if len(parts) >= 3:
+                            port_info, status, service = parts[:3]
+                            port_number = port_info.split("/")[0]
+                            scan_row["open_port_count"] += 1 if status.lower() == "open" else 0
+                            scan_row["port"] = port_number
+                            scan_row["port_status"] = status
+                            if service.lower() in ["http", "https"]:
+                                scan_row["http_ports_open"] += 1
+                            elif service.lower() in ["ssh", "ftp"]:
+                                scan_row["ssh_ftp_ports_open"] += 1
+                            elif service.lower() in ["smtp", "pop3", "imap"]:
+                                scan_row["mail_ports_open"] += 1
+                            elif service.lower() in ["mysql", "mssql", "oracle"]:
+                                scan_row["database_ports_open"] += 1
+                            elif service.lower() in ["telnet", "rlogin", "rdp"]:
+                                scan_row["remote_access_ports_open"] += 1
+
+                    if "OS details:" in line or "Running:" in line:
+                        if "Linux" in line:
+                            scan_row["os_linux"] = "1"
+                        elif "Windows" in line:
+                            scan_row["os_windows"] = "1"
+
+                # You can adjust other fields like exploit_risk_score based on vulnerabilities found
+                scan_row["total_vulnerabilities"] = sum([scan_row["http_ports_open"],
+                                                        scan_row["ssh_ftp_ports_open"],
+                                                        scan_row["mail_ports_open"],
+                                                        scan_row["database_ports_open"],
+                                                        scan_row["remote_access_ports_open"]])
+                scan_row["exploit_risk_score"] = scan_row["total_vulnerabilities"] * 50  # simple heuristic
+                return scan_row
+
         def scan_ip(ip, ports_list):
             try:
                 socket.inet_aton(ip)
                 # First command: "nmap [ip] -O"
                 nmap_os_command = f"nmap {ip} -p {ports} -O"
-                os_info = subprocess.run(nmap_os_command, shell=True, stdout=subprocess.PIPE)
-                os_info = os_info.stdout.decode('utf-8')
+                os_info_proc = subprocess.run(nmap_os_command, shell=True, stdout=subprocess.PIPE)
+                os_info = os_info_proc.stdout.decode('utf-8')
 
                 # Second command: "sudo nmap -sV --script=nmap-vulners"
-                nmap_exploits_command = f"nmap -sV -p {ports}  --script=vulners {ip}"
-                exploits = subprocess.run(nmap_exploits_command, shell=True, stdout=subprocess.PIPE)
-                exploits = exploits.stdout.decode('utf-8').split('\n')
-                limited_exploits = exploits[:30]
+                nmap_exploits_command = f"nmap -sV -p {ports} --script=vulners {ip}"
+                exploits_proc = subprocess.run(nmap_exploits_command, shell=True, stdout=subprocess.PIPE)
+                exploits_output = exploits_proc.stdout.decode('utf-8')       # keep raw string
+                exploits_lines = exploits_output.splitlines()                # make list for parsing
+                limited_exploits = exploits_lines[:30]
+
                 # Print the output of both commands
                 print(pink + "=" * 100)
-                print(white+"OS Information:")
+                print(white + "OS Information:")
                 print(pink + "=" * 100)
-                print(aqua+os_info)
+                print(aqua + os_info)
+
+                # --- Extract keywords ---
+                keywords = []
+                for line in exploits_lines:
+                    if "CVE-" in line:
+                        for part in line.split():
+                            if part.startswith("CVE-"):
+                                keywords.append(part)
+                    elif "nginx" in line.lower() or "apache" in line.lower():
+                        keywords.append("nginx")
                 
+                # --- Extract keywords ---
+                keywords = []
+                searchsploit_results = {}  # store each keyword's output
+                for line in exploits_lines:
+                    if "CVE-" in line:
+                        for part in line.split():
+                            if part.startswith("CVE-"):
+                                keywords.append(part)
+                    elif "nginx" in line.lower() or "apache" in line.lower():
+                        keywords.append("nginx")
+
+                # --- Run Searchsploit for each keyword ---
+                for key in keywords:
+                    print(f"[+] Searching exploits for {key}...")
+                    searchsploit_command = f"searchsploit {key}"
+                    result = subprocess.run(searchsploit_command, shell=True, stdout=subprocess.PIPE)
+                    output = result.stdout.decode('utf-8')
+                    searchsploit_results[key] = output  # save output in dictionary
+
+                    # Print first 30 lines only
+                    for line in output.splitlines()[:30]:
+                        print(line)
+
+                
+                    os_info_proc = subprocess.run(nmap_os_command, shell=True, stdout=subprocess.PIPE)
+                    os_info = os_info_proc.stdout.decode('utf-8')
+
+                    nmap_exploits_proc = subprocess.run(nmap_exploits_command, shell=True, stdout=subprocess.PIPE)
+                    nmap_exploits_output = nmap_exploits_proc.stdout.decode('utf-8')
+
+                    # Parse dynamic scan_row from Nmap output
+                    scan_row = parse_nmap_output(ip, nmap_exploits_output, ports_list)
+
+
+                    best_exploit = predict_best_exploit(scan_row)
+                    print(f"[+] Suggested best exploit: {best_exploit}")
+                                    
+                # --- Write results to file ---
                 if not os.path.exists(filename):
-                    with open(filename, "w") as file:
-                        file.write(light_purp + "This is a new file:" + "\n")
-                        with open(filename, "a") as f:
-                            f.write(os_info + "\n")
-                            f.write(" ")
+                    with open(filename, "w") as f:
+                        f.write(light_purp + "This is a new file:\n")
+                        f.write(os_info + "\n\n")
+                        f.write("Top vulnerabilities found by Nmap:\n")
                         for exploit in limited_exploits:
-                            print(aqua+exploit)
-                            with open(filename, "a") as f:
-                                f.write(exploit + "\n")
+                            print(aqua + exploit)
+                            f.write(exploit + "\n")
+
+                        # Write Searchsploit results for all keywords
+                        for key, output in searchsploit_results.items():
+                            f.write(f"\nSearchsploit results for {key}:\n")
+                            f.write(output + "\n")
+                            f.write("-" * 80 + "\n")
+
                 else:
                     with open(filename, "a") as f:
-                        f.write(os_info + "\n")
-                        f.write(" ")
-                        print(pink + "=" * 100)
-                        print(white+"Vulnerabilities:")
-                        print(pink + "=" * 100)
-                    for exploit in limited_exploits:
-                        print(aqua+exploit)
-                        with open(filename, "a") as f:
+                        f.write("\n" + os_info + "\n\n")
+                        f.write("Top vulnerabilities found by Nmap:\n")
+                        for exploit in limited_exploits:
+                            print(aqua + exploit)
                             f.write(exploit + "\n")
-                    with open(filename, "a") as f:
-                        f.write("="*100 + "\n")
 
+                        # Append Searchsploit results
+                        for key, output in searchsploit_results.items():
+                            f.write(f"\nSearchsploit results for {key}:\n")
+                            f.write(output + "\n")
+                            f.write("-" * 80 + "\n")
+
+                    print(pink + "=" * 100)
+                    print(white + "Vulnerabilities:")
+                    print(pink + "=" * 100)
+
+                print(f"[+] Scan complete. Results saved to {filename}")
+
+
+                
             except socket.error:
                 print(red+"Invalid IP Address..")
                 exit()
@@ -201,7 +328,7 @@ elif choice == "2":
             typewriter(msg1)
             print(" ")
             scan_ip(ip, ports_list)
-
+         
 
 
         elif choice == 'm':
@@ -231,5 +358,9 @@ elif choice == "2":
             print(red+"Invalid choice, try again.")
     except Exception as e:
         print("Error: ", e)
+
+
 else:
     print(red + "Invalid choice, try again.")
+
+
